@@ -96,7 +96,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: 070da50195b674113830e807de8c53e3, type: 2}
+  m_LightingDataAsset: {fileID: 0}
   m_LightingSettings: {fileID: 4890085278179872738, guid: e0a9488525c9b4fa7b9aab51b42f9437, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -699,6 +699,14 @@ PrefabInstance:
     - target: {fileID: 4541409162816689900, guid: 35e2495cf8541504aa98acbb31cc5612, type: 3}
       propertyPath: m_Name
       value: wall_corner (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6617669832020370511, guid: 35e2495cf8541504aa98acbb31cc5612, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -4105812506911450906, guid: 50a11efb93e706d40b2b82b78e24d4cc, type: 3}
+    - target: {fileID: 6617669832020370511, guid: 35e2495cf8541504aa98acbb31cc5612, type: 3}
+      propertyPath: m_Convex
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
