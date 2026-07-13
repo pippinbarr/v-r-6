@@ -2,7 +2,134 @@
 
 Wherein I write about the specific pieces for inclusion, the philosophical/aesthetic perspective of the show, and especially the taxonomic potential for exhibiting these kinds of works (models, animations), with things like animation, speed, scale, lighting, rotation, translation, and so on.
 
+## Pieces and philosophies (Started 13 July 2026)
+
+Not sure why I wrote "especially the taxonomic potential" above, but I suppose its just what I was excited about doing at the time. I return a new man who is also interested in answering to the question of which works to include and what the premise for inclusion (and exhibition) is.
+
+### What is this about? (Philosophy)
+
+#### Assets as craft
+
+Fundamentally it's about showing the work of Maksim Bugrimov *as art* to whoever will look at it. And if not as "art" then as "craft" or whatever, artisinal something, that bit doesn't matter(?), it's about
+
+1. Showing the work at all (he made this, and this, and this)
+2. Showing the work in detail (look at this eyeball embedded in the chitin of this creature)
+3. Showing the work in variation (is it? I'm just trying that out)
+4. Showing the work in situ (is it?)
+
+Which is kind of to say it's about creating "views" (viewings?) of the work that allow it to expand out of the standard monster-in-a-videogame situation where, as I've said ad nauseum about water for instance, it gets kind of subsumed into the gestalt of the game and you don't really see it (and again going all the way back to Chad and the bush he admired in Alan Wake).
+
+So it's about "well, how can we see Maksim's work as his work, as work?" And the answer is you put it in a gallery and you display it in ways that make the work apparent. 
+
+The taxonomic stuff gets a little bit at what that work actually *is* in terms of things like textures, normals, details and scales, animations, etc. And it also gets at questions of how to show the work as well (lights, positions, spaces).
+
+#### The curator is present
+
+There's another bit I haven't noted above because I'm sort of tempted by thinking of this as a semi-scientific expedition, or more of a "natural history" thing, but there's my *personal preferences* that could easily play into this, for instance 
+
+I love
+
+- Dead Man in the Bag
+- The dance of the Humanoid Creatures Pack
+- The brain in the jar
+- The religious paintings
+- Base man as a sculpture (Felix loves this)
+- The cargo ship filling a huge hall
+
+I'm curious about
+
+- Environmental assets creating an environment within a museum space
+- Barrels piled up in front of a door, more expressive ideas of the assets that slip you also into the idea of gallery space as space
+
+I don't really end up caring much about
+
+- Super fancy character models (which is stupid because this is what MB excels at)
+- The apocalypse themed buildings
+- The statues/stone stuff
+
+Which is not to say I shouldn't have things I don't love, but it's a way of thinking about it that I shouldn't discount
+
+There's this odd way in which all my love for Maksim is pegged onto the *dancing* of those creatures (the improbably nature of that, the joyful nature of it) and the correspondence (for me) between Dead Man in the Bag and Gregor Schneider's work (and my love of the title itself). So that when I actually come to make a whole *show* of it I find... well, that it's mostly just *not my thing*.
+
+But on the other hand it gives anyone (myself included) a chance to reflect on quality and beauty in assets as well as just the *strangeness* of assets.
+
+So it's possible that Maksim is... not incidental, but not necessarily the most important feature of this, but rather a kind of organizing principle, a corpus of materials from which to make a show about assets? (I think there's something to this.)
+
+### What other factors are there (Pragmatisms)
+
+Here are some other factors for you
+
+#### Categories
+
+The categories of the work, e.g. if I go through his [storefront](https://assetstore.unity.com/publishers/6845) right now I see 398 assets divided up into, roughly speaking:
+- People (soldier, hero, body, ...)
+- Hands (for FPS)
+- Creatures (often humanoid, but some exceptions like a rhino)
+- Animals (like actual one)
+- Non sequiturs (animated cactus, cartoony spaceship, pizza, pictures, )
+- Weapons
+- Textures (is this only the floot?)
+- Statues (celtic cross, PBR statues)
+- Props for places (barrels, pipes, ...)
+- Buildings
+- Vehicles
+
+Other notes:
+- PBR
+- Most dominant category is humanoid figures of one kind or another, soldiers and creatures dominant?
+- And then kind of "environmental" stuff I suppose
+
+Do I want to represent his preoccupations? What he thinks will sell? His thematic areas? One thematic area?
+
+#### Chronology
+
+Looks like Ancient Statue is the earliest work. Quite a lot of statues over the starting period, literally "working in stone"! (I have the horn and the celtic cross from this period)
+
+Then we switch to more characters and creatures. Somewhat cartoony. Horror inflection coming in with an early Creatures pack, heads on spears pack, ... some more cartoon experiments
+
+Then continuing with monsters and into the apocalyptic environment. (A sci-fi environment popped in here?) He has a desert!
+
+We pretty much settle into creatures and horror and military and weapons from here? (But then you'll find a pizza... why?) Things get progressively more realistic and accomplished? And huge. Almost exclusively bodies and hands at a certain point.
+
+Do I want to represent his trajectory? How he has developed as an artist?
+
+#### Money
+
+A lot of this stuff is really expensive for what I'm doing. I don't madly want to drop a ton of money on this specific project. I'd quite like to contemplate getting one of his fancy new ones for the "single asset" part of things... it would make sense to have a recent thing that's representative of where he is at with things now. (The Humanoid Creatures Pack I have is now $40 which is interesting in terms of showing something considered valuable. It's from 2020.)
+
+#### Megabytes
+
+A lot of this stuff is just *huge*. The Pirate I have (which was free) is 191MB on his own for example. From 2022. 
+
+I'm not looking to make another v r $4.99 thing where it barely loads and almost nobody sees it. My dream as I've said is to have a version of this that would cram into a webGL build.
+
+At the same time obviously MB cannot be the driving factor. It's funny though... it's easier/cheaper to put a container ship in the gallery than to put a really high rez pirate. Spatial space isn't the issue, MB space is. Oh funny that he's MB and I'm worried about megabytes.
+
+#### And so?
+
+Well it would be nice to represent all these factors in the curation (categories, chronology, value) in some ways, but it gets pretty obvious that I can't really capture the whole thing. 
+
+That said if you definitely had:
+
+- Something early
+- Something recent (enough - his werewolf woman, which is cartoony, is on sale at the moment, so that?)
+- Some hands
+- A creature
+- A human
+- A vehicle
+- A statue
+- A weird random/incongruous thing (like a pizza)
+- Something environmental (apocalyptic)
+
+(Do I want to make a sculpture - like the base man on the barrel but moreso?)
+
+You'd be getting somewhere with that... you could "get away with" like eight pieces really, if you just wanted to rep the idea.
+
+### What should I include to reflect that? (Pieces)
+
+
 ## Taxognome (Started 9 July 2026)
+
 
 ### Big questions
 
