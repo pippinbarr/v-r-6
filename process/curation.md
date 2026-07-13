@@ -2,6 +2,33 @@
 
 Wherein I write about the specific pieces for inclusion, the philosophical/aesthetic perspective of the show, and especially the taxonomic potential for exhibiting these kinds of works (models, animations), with things like animation, speed, scale, lighting, rotation, translation, and so on.
 
+## Feelings (Started 13 July 2026)
+
+I address this a bit below, but something "missing" in a lot of this more taxonomic and philosophical thinking is feelings. I was watching the Brian Eno documentary this morning and he says at one point that all thinking begins with feelings, which I at least like enough to fold some kind of version of it into this now.
+
+So what I wanted to write down was essentiall images I see in my mind (well, as much as I personally see such things) that I like the idea of, regardless of whether they serve the current version fo the Why. (Which I should take another stab at soon.)
+
+- A tableau with Base Man being attacked in some way (or embraced in some way? Or both?) by the Creature. Maybe with extra stuff for detail, but also maybe just on a plinth. The sort of Museum of Natural History affair where they have a lion attacking another animal or something (but without the full on stage decoration vitrine version)
+- Base Man on a barrel on a pizza balanced on four paintings (or something) - the idea of a sculpture (or sculptures) I build out of the assets I'm including. A way of re-seeing them as materials.
+- Barrels (or things) piled up at the back of a room and blocking an open doorway - you can also see them from that doorway (maybe you would ideally see the blocked version earlier and then later find the barrels room)
+- Dead Man in the Bag in a dark room (moonlit?), maybe projecting from behind a wall as in Schneider, maybe roped off by velvet ropes
+- A pizza room with pizzas on three walls in the three states we can most obviously have (full, bump map only, mesh only)
+- An art room with the paintings hanging absolutely everywhere like at Les and Millie's? Scaled. Tesselated.
+- Walking through a doorway and onto the nighttime desert landscape he has, the museum vanishing behind you and just leaving you out there. Maybe there is stuff to see in the desert and maybe there isn't anything there and it's just a desert and the end of the experience.
+- The Creature runs down the middle of a long gallery, then back again
+- The Creature follows the player around on a navmesh slowly, always trying to be behind them
+- A stack of the Creature like bodies or firewood, in t-pose? Or some pose
+- The Creature (or someone) in a pose contemplating a painting on the wall (or a sculpture)
+- An enormous Stalin head, a stalin head coming through each wall, a pile of stalin heads
+- The Cargo ship laid out in a long hall
+- Walking through a door into the interior of a building (but I don't think they have interiors)
+- The boiler room (whatever room it was I put in) inside a room. And perhaps something *inside* that room? Schneideresque? Do we let the player walk through its walls to see inside it? Is there a room inside the room?
+- A ragdoll version of something (I played around with Base Man as in the process screens) just kind of lying there in that ragdoll way (it's kind of a specific acknowledgement of the rigging). Base Man looked quite pleasingly freaky half on one of the seating things
+- The shadow of something (creature?) visible through a doorway before you get in there to see the thing itself
+- Programmatically pulling randomly on the limbs of a ragdoll? Rotating joints randomly?
+
+Worth continuing this process? I don't mind the idea of maybe an intersection of imagery I would like to see of assets in this space with the specific assets by Maksim, with attention still paid to looking at them as assets
+
 ## Pieces and philosophies (Started 13 July 2026)
 
 Not sure why I wrote "especially the taxonomic potential" above, but I suppose its just what I was excited about doing at the time. I return a new man who is also interested in answering to the question of which works to include and what the premise for inclusion (and exhibition) is.
