@@ -97,3 +97,15 @@ Anyway, I suspect I don't need to grossly overcomplicate this. I'm trying to *di
 I suppose I should write a kind of curation document where I start thinking a bit more seriously about the display strategies, possibly exactly in that kind of taxonomic approach. (Oh I could strip textures from one at some point to reveal just the pure model.)
 
 So yes, let's get a bit taxonomic next. Write a curation document.
+
+## Curations (13 July 2026)
+
+Well now, I *did* go through the taxonomy-curation idea over the last few days (mostly Thursday and Friday last week) and simultaneously tried a few things out in the "actual" space. I think the taxonomic stuff was really helpful in terms of the questions of staging, but in a way I avoided a really central (the central?) question of curation which is... well which works should I include and what are the criteria? So I ought to do a second kind of section of that curation document where I address that element of thing.
+
+My instinct, just saying, is that I'll likely *need* to think in terms of fewer pieces with more manipulations/reflections via staging. Which might funnel me "uncomfortably" toward the "one piece" version of this project, which might funnel me toward the v r 3 structure and just have them in the same show if they don't add too too much overhead? Will have to see what's possible.
+
+Beyond that I do think the project is coming along nicely. I started this on the 6th, so one week ago, and it has come a nice long way in a short time. I could even hazard to imagine it *not* taking as long as something like v r 3 or v r 4.99 or v r 5? Depends a bit on how ambitious I get. 
+
+I need to write to MB again I'll do that now. Done. I wrote from my Concordia address this time, maybe that will somehow be of use?
+
+Now on to that other curation document which might help me settle the "what" question and I can move over to the "how" after it.
