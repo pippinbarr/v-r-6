@@ -131,3 +131,17 @@ Also suggests I should just get on with prefabbing those rooms of mine so that I
 Oh and I did open up one of the museum walls in Blender and did successfully change its height but then realized that I would have to unwrap it again and that would almost certainly be something I would just hugely fail at. I might try again. I do like the idea of a cavernous room with the cargo ship in it, but perhaps solving the desert is another way to include that idea?
 
 I keep thinking of the desert as a good ending. You walk through a final door and out into a desert and the museum is gone and there's just this giant moonlit tanker lying there and then like five seconds later the game quits? Plausible. Will buy the desert and see.
+
+## Oh yeah, lighting (14 July 2026)
+
+Well I did buy and put in the desert, also rebaked lighting. Aaand was reminded of that whole fuckfest. WebGL build is now 76MB so... edging toward too big but it *does* have an entire desert in it which... well that seems like a lot right? So... not impossible to keep the desert dream alive.
+
+However in rebaking the lighting I cam to the good ol' realization that non-static objects don't get lit by the area light in the ceiling, rending that style of lighting totally useless. Well let's not say totally but I am/was imagining at least some animation right? Although... maybe not as much as all that. Really there's the creature with its animations, and the potential to animate the base man or have him be a moving/movable ragdoll. But perhaps there would be a way to handle them in a different kind of room with something as weird and spotlights on a bunch of models and no other (baked) lights in that room? Could kinda work?
+
+Mmm, sooooooo oo oo oo. Well I dunno, it's something to work around.
+
+The desert I have is.... 8km square which is sort of insane? Like that's a lot of desert for a 10 second joke at the end? Might want to consider at least letting it have a bit more time. But I think with the starry sky and maybe the ship you can approach and then a cut... kind of powerful and worth it.
+
+Soooooooo. Next up is... I think prefabbing the spaces and starting installs while thinking carefully about lights.
+
+The fact you can go out into the desert *is* cool no question. I will keep it for now.
