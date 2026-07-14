@@ -109,3 +109,25 @@ Beyond that I do think the project is coming along nicely. I started this on the
 I need to write to MB again I'll do that now. Done. I wrote from my Concordia address this time, maybe that will somehow be of use?
 
 Now on to that other curation document which might help me settle the "what" question and I can move over to the "how" after it.
+
+## Notebooking, constraints, models (14 July 2026)
+
+I went to the Musée des Beaux Arts on the recommendation of Rilla this morning and wandered around a bit (saw a really good Basquiat), thought a teeny bit about the spaces I was in (which were spiritually quite related to my museum space from Art Gallery Expo), and spent a while in the café writing stuff in my notebook that at times felt like going in circles and at times did not. Here are the pages:
+
+![](./images/2026-07-14-notebook-1.jpg)
+
+![](./images/2026-07-14-notebook-2.jpg)
+
+![](./images/2026-07-14-notebook-3.jpg)
+
+![](./images/2026-07-14-notebook-4.jpg)
+
+One thing I wrote in there that I was thinking about in connection with the museum I was in was that whole "one piece per room" constraint, and being in a real museum with real architecture made me think that maybe one of the things that's tricky with this is the potential flexibility and combinations of architecture which are... possibly something I actually don't want to deal with. So I wondered about just making eight rooms, or however many, and then just installing stuff in them from there in whatever way I felt like doing?
+
+To that extent I could probably make a series of rooms and just mess around with them and switch between them with keystrokes and then work out how they connect later on or something?
+
+Also suggests I should just get on with prefabbing those rooms of mine so that I can just use them.
+
+Oh and I did open up one of the museum walls in Blender and did successfully change its height but then realized that I would have to unwrap it again and that would almost certainly be something I would just hugely fail at. I might try again. I do like the idea of a cavernous room with the cargo ship in it, but perhaps solving the desert is another way to include that idea?
+
+I keep thinking of the desert as a good ending. You walk through a final door and out into a desert and the museum is gone and there's just this giant moonlit tanker lying there and then like five seconds later the game quits? Plausible. Will buy the desert and see.
