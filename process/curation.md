@@ -2,6 +2,140 @@
 
 Wherein I write about the specific pieces for inclusion, the philosophical/aesthetic perspective of the show, and especially the taxonomic potential for exhibiting these kinds of works (models, animations), with things like animation, speed, scale, lighting, rotation, translation, and so on.
 
+## Works (Started 15 July 2026)
+
+I think it's time to just think about what works to include. (Also about the idea of not fussing too much about rooms, just have a set of rooms, one per work, and install them in a way that I like.) I think in terms of the works to include it should almost entirely be things that I just think are interesting themselves, less about the sweep of Maksim's career/approach and more about the act of contemplating the work of a single person, not necessarily trying to "solve" it but to invite questions and comparisons from the audience. I don't think I need a "perspective" that I'm bringing to this necessarily - the project is the selection and installation of the work and what emerges out of that, the conversation with materials under these specific constraints ideally revealing itself in interesting ways? (I should write another why.)
+
+### PBR Pizza
+
+[PBR Pizza on the Asset Store](https://assetstore.unity.com/packages/3d/props/food/pbr-pizza-108425)
+
+It's a 13.1MB pizza from 2018. Looks like a pepperoni. Comes on a circular serving board. Has no bottom faces. Nine reviews, generally five stars.
+
+I had imagined installing this pizza in three forms, one on each of three walls of a small room, scaled up to be like a large canvas. One regular, one with no albedo, one with no bump either.
+
+Increasingly unconvinced by the value of that (though I should try it in that specific format), but do like the idea regardless of the pizza handing, very large, on a wall like a painting.
+
+Why did Maksim make a pizza? It's the only food item in his entire collection of works. Why this pizza? What's the deal with PBR in general and in this case specifically?
+
+### Desert Night
+
+[Desert Night on the Asset Store](https://assetstore.unity.com/packages/3d/environments/landscapes/desert-night-77444)
+
+It's a 51.6MB desert landscape specifically set at night, including a skybox. It's 8km x 8km so it's pretty huge. From 2016.
+
+It's the only terrain in Maksim's collection so I guess it stands out for that reason, though he has a couple of other "environments" (a sci-fi level, the gamer gerl room, the barracks place). It's kind of naturally beautiful, and it's striking he chose to set it at *night*. What makes it be at night other than the suggested lighting exactly?
+
+Whenever I've worked with it so far I cannot get the lighting right so it always looks weird. I'd like it to appear moonlit, but so far so bad.
+
+As I've said elsewhere, I'm attracted to the idea of the player walking out of the museum at the end into the desert and finding that the museum has vanished (maybe it can explicitly pop out of existence in a Lynch kind of way) and that now they're just out here in this big empty world. Lately I've been looking at having the cargo ship out there with them as the only thing, so they would probably make their way toward that and then the game would just quit to keep the mystery.
+
+Not 100% clear on whether this will work, but I think there's something here.
+
+Why did Maksim make a desert and why is it important that it's a nighttime thing? What's the story of this particular desert - is it a real place? Completely imagined? How was it made?
+
+### Humanoid Creatures Pack
+
+[Humanoid Creatures Pack on the Asset Store](https://assetstore.unity.com/packages/3d/characters/creatures/humanoid-creatures-pack-162689)
+
+Five creatures at 420.4MB (aka huge) from 2020. Freaky sea-life based monsters I suppose. I've leaned towards the one with a mouth in its centre, eyeballs embedded in its carapace. They look like they're meant to be people who were human and became deformed. Maybe some sense of the Pirates of the Caribbean sailors from the Flying Dutchman?
+
+These still seem like they're decently representative of his "creature" stuff, the "horror" angle that is major in his work (alongside the kind of sci-fi/military thing). They're appropriately "high quality" so I wouldn't feel so bad if I didn't end up including another kind of fancy fancy asset. (And of course I'm conscious that they're a very serious resource suck if I do include them.)
+
+I've thought about the question of having a kind of "wing" where there's *only* this creature done in multiple ways as a sort of showpiece and I could imagine doing that still. Animated, not, ragdolled, moving around a space, gridded, albedo removed, and so on. Or that but just in a really big room (but that will of course not have the same kind of scary effect -- though do I need that?)
+
+Oddly this is one of the tricker ones because I keep oscillating between just displaying it simply versus having it be a focal point, just because it has a kind of weird emotional significance to me through v r $4.99? It's a central question.
+
+### Base Man
+
+[Base Man on the Asset Store](https://assetstore.unity.com/packages/3d/characters/base-man-133457)
+
+A naked man of 43.7MB from 2021, recipient of the great review:
+
+![](./images/process-screenshots/Screenshot%202026-07-06%20at%2018.04.46.png)
+
+I enjoy how straightforward he is on the one level, but he's also very obviously like a ripped white man. Very generic facial features, etc. Who is he? (Who are any of these people? How does Maksim think about the character behind the mesh I wonder? How much is he injecting versus leaving to the next person in the cycle?)
+
+How do you display a naked (no penis) man in a room in a way that's interesting, not evoking just looking maybe at an anatomical "thing"? Maybe an idle animation? I had a sculpture with him on a barrel I was quite fond of, but I think it's headed in a different direction there. I also had him ragdoll-fallen onto a sofa and his head would rock back and forth which was quite intriguing. Have also thought about have a whole bunch of them rangdolling in a pile and then freezing that. Or even something as mad as them all fallen "down" onto a wall and freezing that. I wonder. Anyway his ordinariness is probably an opportunity to display him in a strange way.
+
+Increasingly thinking I don't need/want to go the route of trying to display things to their "advantage" but rather to display them in an "interesting" way and to rely on the player/audience to look at them as a part of that... in a way to make the strangeness of the setting be something that *causes* you to want to look at them more closely, or to acknowledge the artificial while also making room to have a feeling about it.
+
+### Stalin Statue
+
+[Stalin Statue on the Asset Store](https://assetstore.unity.com/packages/3d/props/exterior/stalin-statue-78188)
+
+Five Stalin busts in different materials (bronze, dirty bronze, steel, wood, marble) at 18.2MB from 2018.
+
+Part of Bugrimov's statue stuff, a definite thing in his work, the closest (obviously) element to literally being a sculptor, which maybe is worth asking him about, even the relationship between meshes and wood for example. Also most obviously there a connection between Burgimov being from Russia (well I assume) and Stalin. Feelings about Stalin represented here? What is this statue for? Where would it be?
+
+And for me how do I deal with Stalin myself? Just making "a really big Stalin" seems kind of weird. A pile of them in the centre of a room could be kind of appealing/interesting. Could also display them really traditionally more early on as a nod to that kind of "normal museum" thing. Could have him "fallen" over on his side, large in a room to reference some of those "torn off heads" like I saw at the Monuments show at LACMA? Hmmm, there's probably something to that. Face down? How do I address the political reality of Stalin. Large/human scale but facing the corner? But that's kinda weird because he's not a naughty schoolboy.
+
+Well, we'll think and try.
+
+### Marine cargo ship
+
+[Marine cargo ship on the Asset Store](https://assetstore.unity.com/packages/3d/environments/industrial/marine-cargo-ship-63770)
+
+A very big ship at 34MB from 2018. 
+
+It's really big. Originally I'd thought I would put it inside a room. Quickly became apparent it's far, far too big for that at its basic scale. Thought about scaling it down (and still could) but there's something sort of weird there. Thought about having it lying foundered in the desert right at the end. These are all options or maybe it cannot be done or maybe you wander the desert until you get to the cargo ship (in my mind I'm wondering about a sort of narration that starts as you step into the desert ABOUT the desert, then switches to the cargo ship when you get near enough etc... hmmm)
+
+I do like having something of this massiveness involved I will say.
+
+### Pictures
+
+[Pictures on the Asset Store](https://assetstore.unity.com/packages/3d/props/interior/pictures-88112)
+
+Two religious pictures, each one angel type person and another person (maybe they are both the Annunciation?) at 9MB from 2017.
+
+It seems imperative to have "paintings" in a gallery/museum. They make a lot of sense in the context. My thought was to have an "okay sized" room with the same two paintings scaled to different sizes and hung all over the place. Not necessarily scintillating but also completely reasonable and appropriate. Could be an "early room" if I'm thinking about the idea that things get potentially stranger as we go... but I don't know if I buy that as much as I did.
+
+Hmmm... I mean I think I should just hang them and see how successful they are or not.
+
+### Pipe(r)s and Barrels
+
+[Pipers on the Asset Store](https://assetstore.unity.com/packages/3d/environments/industrial/pipers-63800) is some pipes at 1.6MB from 2016 and [Barrels on the Asset Store](https://assetstore.unity.com/packages/3d/environments/industrial/barrels-63623) is some barrels at 4.7MB from 2016. Both from the general sort of "apocalyptic wasteland" kind of zone.
+
+These are the things I'd felt I could block a room up with. There's a radioactive barrel you could imagine evoking Dark with by stacking barrels in a room, maybe blocking a doorway as I've suggested elsewhere? Pipes don't really fit into that vision, but don't *necessarily* need the pipes. Could make some sort of weird environment with vertical pipes you have to navigate around in? Could try something.
+
+### Dead Man in the Bag
+
+[Dead Man in the Bag on the Asset Store](https://assetstore.unity.com/packages/3d/environments/industrial/dead-man-in-the-bag-79484) is a dead person covered in a plastic sheet at 2.3MB from 2017. Very much in line with a horror aesthetic.
+
+Crucially this one reminds me a lot of that Gregor Schneider work called TOTER MANN (DEAD MAN) from 2001. That one is a person in a bin bag with their legs protruding so they're very different too, but I do like the relationship in name and appearance given *v r 1* and my general enjoyment of Schneider's own creepy horror aesthetic.
+
+I kind of like the idea of maybe not being able to quite get to the man? Like he's behind a corner or something? Not quite accessible?
+
+### Spaceship
+
+[Spaceship on the Asset Store](https://assetstore.unity.com/packages/3d/props/industrial/spaceship-33345) is a strangely cartoony spaceship of 16.7MB from 2017. The description is just "Spaceship model." so I'm not sure how to interpret it. There are a few of these more cartoony models in MB's set, including a weird cactus character and stuff. I find it hard to imagine *why* he makes something like this in amongst his more dominant focuses, and I suppose I'd want to ask him that.
+
+As with *v r 3* of course there's always that "what game would this be in?" question you can ask when you look at an asset which is fun.
+
+Funnily enough the spaceship is one of the most kind of "normal-feeling" assets in here. I wasn't really thinking seriously of including it, but maybe it's actually a fun starting point in a way... not very similar to the other stuff, does work as a kind of pop sculpture sort of thing in a room (maybe the starting room).
+
+So I guess I'm leaning to inclusion of this in a really kind of banal way? But I'd like to know from MB what the drive is to make this sort of very stylistically different thing. What's going on etc.
+
+(Also as I write that I find myself wondering what his work setup looks like, for example... it would be kind of awesome to include a photo of that, thinking of the magazine profile thing I was part of.)
+
+### Apocalypse Pack
+
+[Apocalypse Pack on the Asset Store](https://assetstore.unity.com/packages/3d/environments/industrial/apocalypse-pack-58281) is a set of buildings, a bus, some lean-tos, a giant cargo ship (the one from above), etc. at a total of 324MB from 2018. I'm already using the cargo ship but it's interesting to think about using some of the other stuff...
+
+I put (I think) the "boiler room" inside the standard gallery room and immediately felt *something*. I suppose it was the "hey there's a building inside this building" feeling you get with that kind of art - thinking of that Michael Parekowhai moment as one example of that, and I'm pretty sure I've seen it done elsewhere. It's funny how trivial it is here of course.
+
+The buildings don't seem to have interiors which would have to be navigated in terms of whether or not to give them colliders, whether to let the player go "inside" them to see what is not really a considered interior space, though they do have interior faces for some reason. There are a *lot* of things in this pack, any one of which could be exhibited on its own.
+
+The fence I used for a little bit to block off a space and I could imagine making a maze out of those for instance. There's some sort of hangar shaped thing which is pretty huge (I don't think it would fit in the space). Going by the image on the asset store the *rocks* are actually kind of interesting and appealing now that I think about it... exhibitable. Curious about what the "concrete shelter" is specifically as it may have more of an interior quality to it I'd like the option to explore. Hmmm yeah I think I should spend some time placing these things and seeing about them.
+
+I suppos I'm curious about Maksim's thoughts about the idea of the apocalypse, what it means to him, why this particular set of elements were what he put together. Concrete canopy is really kind of nice nice tbh. I'd like that to be in there in some capacity. The "construction" that is a tin shack is also quite nice. The checkpoint is nice too. And the tank is nice too. Some of these things will be far too large for the space.
+
+All I can really do is try them out.
+
+### Is that enough?
+
+Is that enough? What is enough? I don't know, but I think the above is a more-than-reasonably place to start out.
+
 ## Feelings (Started 13 July 2026)
 
 I address this a bit below, but something "missing" in a lot of this more taxonomic and philosophical thinking is feelings. I was watching the Brian Eno documentary this morning and he says at one point that all thinking begins with feelings, which I at least like enough to fold some kind of version of it into this now.
