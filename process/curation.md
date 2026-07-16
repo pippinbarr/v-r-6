@@ -134,7 +134,7 @@ All I can really do is try them out.
 
 ### Is that enough?
 
-Is that enough? What is enough? I don't know, but I think the above is a more-than-reasonably place to start out.
+Is that enough? What is enough? I don't know, but I think the above is a more-than-reasonable place to start out.
 
 ## Feelings (Started 13 July 2026)
 
