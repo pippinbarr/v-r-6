@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Prototyping.unity
     guid: e9f60666ba3e4486e8564bf99b6ff353
+  - enabled: 1
+    path: Assets/Scenes/Prototyping Stalin.unity
+    guid: f682fdaff65a54178930c87b64dafdfb
   m_configObjects: {}
