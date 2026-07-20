@@ -14,7 +14,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Prototyping Pizza.unity
     guid: 861d2ba1e20354aedb3c5eeb4c887360
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Prototyping Pictures.unity
     guid: 41c645897e7054fe8a5ed48326be5b1c
+  - enabled: 1
+    path: Assets/Scenes/Prototyping Spaceship.unity
+    guid: 1c6efc0b267d349048434f010c79ff12
   m_configObjects: {}

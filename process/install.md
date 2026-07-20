@@ -37,3 +37,17 @@ Took a first swing by very sensibly thinking prototype instead of final. So I ma
 ![](./images/process-screenshots/Screenshot%202026-07-20%20at%2014.46.45.png)
 
 This room pretty clearly works. I don't think it needs the ropes. Could possible use a sofa in the middle. I'll pop one in, something to imply "sit and contemplate" is useful here and holds some space in the centre of the room. I think this room looks like it works.
+
+## Spaceship
+
+### 20 July 2026
+
+For now I'm just throwing it in a room at its maximum fitting scale (it's huuuuuuge otherwise -- Maksim's approach to object scale doesn't always make a lot of sense to me?). It's might be better off a bit smaller to be able to get some distance, but for now I'll try this...
+
+![](./images/process-screenshots/Screenshot%202026-07-20%20at%2015.21.32.png)
+
+It sort of looks fine really. Especially as an earlier, less experimental thing it may make sense like this as I discussed somewhere. It's possible I should lean even harder into the idea of it just as a "model" and so it's scaled down more and behind ropes just as a thing to look at. Let me see that...
+
+![](./images/process-screenshots/Screenshot%202026-07-20%20at%2015.28.36.png)
+
+Yeah I think that's an improvement really. We'll stick with it for now.
