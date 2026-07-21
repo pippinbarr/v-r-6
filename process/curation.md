@@ -6,7 +6,18 @@ Wherein I write about the specific pieces for inclusion, the philosophical/aesth
 
 I think it's time to just think about what works to include. (Also about the idea of not fussing too much about rooms, just have a set of rooms, one per work, and install them in a way that I like.) I think in terms of the works to include it should almost entirely be things that I just think are interesting themselves, less about the sweep of Maksim's career/approach and more about the act of contemplating the work of a single person, not necessarily trying to "solve" it but to invite questions and comparisons from the audience. I don't think I need a "perspective" that I'm bringing to this necessarily - the project is the selection and installation of the work and what emerges out of that, the conversation with materials under these specific constraints ideally revealing itself in interesting ways? (I should write another why.)
 
-### PBR Pizza
+### Short list of curation (✅ is installed to some extent)
+- PBR Pizza ✅
+- Base Man ✅
+- Spaceship ✅
+- Stalin Statue ✅
+- Apocalypse Pack
+- Humanoid Creatures Pack
+- Barrels
+- Dead Man in the Bag
+- Desert Night
+
+### PBR Pizza ✅
 
 [PBR Pizza on the Asset Store](https://assetstore.unity.com/packages/3d/props/food/pbr-pizza-108425)
 
@@ -46,7 +57,7 @@ I've thought about the question of having a kind of "wing" where there's *only* 
 
 Oddly this is one of the tricker ones because I keep oscillating between just displaying it simply versus having it be a focal point, just because it has a kind of weird emotional significance to me through v r $4.99? It's a central question.
 
-### Base Man
+### Base Man ✅
 
 [Base Man on the Asset Store](https://assetstore.unity.com/packages/3d/characters/base-man-133457)
 
@@ -60,7 +71,7 @@ How do you display a naked (no penis) man in a room in a way that's interesting,
 
 Increasingly thinking I don't need/want to go the route of trying to display things to their "advantage" but rather to display them in an "interesting" way and to rely on the player/audience to look at them as a part of that... in a way to make the strangeness of the setting be something that *causes* you to want to look at them more closely, or to acknowledge the artificial while also making room to have a feeling about it.
 
-### Stalin Statue
+### Stalin Statue ✅
 
 [Stalin Statue on the Asset Store](https://assetstore.unity.com/packages/3d/props/exterior/stalin-statue-78188)
 
@@ -82,7 +93,7 @@ It's really big. Originally I'd thought I would put it inside a room. Quickly be
 
 I do like having something of this massiveness involved I will say.
 
-### Pictures
+### Pictures ✅
 
 [Pictures on the Asset Store](https://assetstore.unity.com/packages/3d/props/interior/pictures-88112)
 
@@ -106,7 +117,7 @@ Crucially this one reminds me a lot of that Gregor Schneider work called TOTER M
 
 I kind of like the idea of maybe not being able to quite get to the man? Like he's behind a corner or something? Not quite accessible?
 
-### Spaceship
+### Spaceship ✅
 
 [Spaceship on the Asset Store](https://assetstore.unity.com/packages/3d/props/industrial/spaceship-33345) is a strangely cartoony spaceship of 16.7MB from 2017. The description is just "Spaceship model." so I'm not sure how to interpret it. There are a few of these more cartoony models in MB's set, including a weird cactus character and stuff. I find it hard to imagine *why* he makes something like this in amongst his more dominant focuses, and I suppose I'd want to ask him that.
 
@@ -131,6 +142,10 @@ The fence I used for a little bit to block off a space and I could imagine makin
 I suppos I'm curious about Maksim's thoughts about the idea of the apocalypse, what it means to him, why this particular set of elements were what he put together. Concrete canopy is really kind of nice nice tbh. I'd like that to be in there in some capacity. The "construction" that is a tin shack is also quite nice. The checkpoint is nice too. And the tank is nice too. Some of these things will be far too large for the space.
 
 All I can really do is try them out.
+
+#### 21 July 2026
+
+Occurs to me right now there's maybe the opportunity to build a sort of "environment" in a large enough room where the player can kind of navigate through a few of the things from the pack (that aren't too insanely big) in a sort of clearly-artifical thing with corrugated iron leaned against the walls and so on... so it's sort of like/reference/is one of those total installations inside a gallery like we saw at Venice. I'll try it.
 
 ### Is that enough?
 

@@ -73,3 +73,27 @@ Maybe some luck here with a Light Probe Group? Seems to be helping the meshes se
 ![](./images/process-screenshots/Screenshot%202026-07-21%20at%2015.16.52.png)
 
 ![](./images/process-screenshots/Screenshot%202026-07-21%20at%2015.18.49.png)
+
+## Apocalypse Pack (Installation)
+
+As in, let's try to make one of those cool-guy totalizing installations in a gallery space using the Apocalypse pack if we can manage. The scale thing could be a serious issue but let's just see.
+
+Wellll... yeah spent some time on this and already I think it will be workable. A lot of the pieces do miraculously fit inside one of the long rooms, including two of the concrete canopies, the checkpoint, the camper, the boiler room, the "exit" and other stuff. I think this could actually be pretty cool...
+
+For now I've thrown in "enough" stuff to try to light it and walk in it and get a feel. The lighting will need some thought though probably because the canopy blocks out the main area light. That's not a bad thing per se but I'll need some sort of light level underneath. Curious about whether I can walk in the checkpoint or not. Worst case I can give it some specific colliders myself if the mesh version wouldn't work.
+
+This one might balloon the build a bit but I think it's extremely worthwhile because it's a kind of "as intended" nod to the art of assets. I'll work hard to make something actually plausible so that to the extent I can (not much) it'll feel a bit like a "real game" with the museum kind of peeking through.
+
+The floor is an obvious failing point... is there a way to improve that? Maybe just retexture this floor to a concrete texture that must be in here somewhere to avoid the sense of it being too museumy. Or just cover it with fencing sections... but that doesn't make a ton of sense.
+
+![](./images/process-screenshots/Screenshot%202026-07-21%20at%2016.15.50.png)
+
+![](./images/process-screenshots/Screenshot%202026-07-21%20at%2016.17.10.png)
+
+![](./images/process-screenshots/Screenshot%202026-07-21%20at%2016.17.55.png)
+
+![](./images/process-screenshots/Screenshot%202026-07-21%20at%2016.18.09.png)
+
+![](./images/process-screenshots/Screenshot%202026-07-21%20at%2016.18.23.png)
+
+Yeah it's not there but it's getting there! I believe this can be done. Building for webgl to see how bad that is... 27.4MB! That's-a nothing!
