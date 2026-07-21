@@ -51,3 +51,25 @@ It sort of looks fine really. Especially as an earlier, less experimental thing 
 ![](./images/process-screenshots/Screenshot%202026-07-20%20at%2015.28.36.png)
 
 Yeah I think that's an improvement really. We'll stick with it for now.
+
+## Base Man
+
+My starting ploy is to make a big pile of them and see if that feels like something. I created a rag doll prefab of the guy and then superimposed 100 of them floating above the floor then hit play. They turned into an INCREDIBLE monster of flailing strange limbs that was frankly kind of freaky and just like a horror movie as the engine figured out how to resolve all the bad and fucked up physics involved. Eventually it subsided into a whole lot of base men lying on the floor and piled up and it looks... really kind of good. I'm lighting it right now so we will see. I'm tempted to try to pile them even higher if I can? Like if they could reach the ceiling that would be pretty amazing. I removed all the created rigidbodies and characterjoints so the point is they will just be static and therefore can be baked lighting and therefore can have pretty complex lighting (required by all that occlusion I suppose?) and yet not have it be computationally insane not take any more room particularly than lighting anything else? That's the idea...
+
+![](./images/process-screenshots/Screenshot%202026-07-21%20at%2014.57.18.png)
+
+![](./images/process-screenshots/Screenshot%202026-07-21%20at%2014.57.28.png)
+
+Currently they are not lighting at all properly though which is annoying. We just have a very, very dark room. Looks good without the lighting turned on though which suggests this is worth it...
+
+![](./images/process-screenshots/Screenshot%202026-07-21%20at%2015.02.37.png)
+
+Hmm, well that's frustrating. Still not working. Will continue to look into this and figure it out. The basic visual effect other than the lighting is pretty strong so I do want to keep it this way if remotely possible. Trying it out with just One Man...
+
+![](./images/process-screenshots/Screenshot%202026-07-21%20at%2015.11.55.png)
+
+Maybe some luck here with a Light Probe Group? Seems to be helping the meshes see the light so to speak? Okay well it did the trick even with the big group so.... a win but suggests that there's something about the men (and their ragdolliness) that makes Unity unable to treat them as truly static (since a light probe group as I'm understanding it is about maintaining baked lighting effects for dynamic objects or something). Anyway it does work! SO. Carrying on.
+
+![](./images/process-screenshots/Screenshot%202026-07-21%20at%2015.16.52.png)
+
+![](./images/process-screenshots/Screenshot%202026-07-21%20at%2015.18.49.png)
