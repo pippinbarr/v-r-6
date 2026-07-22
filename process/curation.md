@@ -11,10 +11,10 @@ I think it's time to just think about what works to include. (Also about the ide
 - Base Man ✅
 - Spaceship ✅
 - Stalin Statue ✅
-- Apocalypse Pack
+- Apocalypse Pack ✅
 - Humanoid Creatures Pack
 - Barrels
-- Dead Man in the Bag
+- Dead Man in the Bag ✅
 - Desert Night
 
 ### PBR Pizza ✅

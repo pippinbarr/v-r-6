@@ -97,3 +97,19 @@ The floor is an obvious failing point... is there a way to improve that? Maybe j
 ![](./images/process-screenshots/Screenshot%202026-07-21%20at%2016.18.23.png)
 
 Yeah it's not there but it's getting there! I believe this can be done. Building for webgl to see how bad that is... 27.4MB! That's-a nothing!
+
+## Dead Man in the Bag
+
+Well I sat at the optomestrist's today trying to visualize a good display of the Dead Man in a Bag. I had this idea eventually of a roped off room you cannot enter that he's in, maybe dimly or unlit, maybe with a spotlight.
+
+Got home and made that and... well he looks tiny and insignificant and not remotely like a problem. And I clearly feel I want him to feel powerful and ominous. Why doesn't he? 
+
+![](./images/process-screenshots/Screenshot%202026-07-22%20at%2017.13.12.png)
+
+![](./images/process-screenshots/Screenshot%202026-07-22%20at%2017.13.16.png)
+
+How small would a small enough room have to be? How else can it work? At a certain scale it will look ludicrous and there will still be a lot of room. I can play with the lighting but I think that it's the space.
+
+Do I have him in the same room but inaccessible? I think he had more gravitas when he was at the end of a long room and you could get closer to him? The empty space had a meaning because it was space to traverse whereas right now I just have visual empty space which is... empty.
+
+Hmmm. Minivision just now of the asset teleporting to different locations suddenly as the light flashes. Trickery to make it more something... but there's something amiss here for now.

@@ -23,7 +23,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Prototyping Base Men.unity
     guid: eb46f10aa4fac43f095ffab9ae69e650
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Prototyping Apocalypse Pack.unity
     guid: 7ac46afbc3fe9406381e0853beff9ea0
+  - enabled: 1
+    path: Assets/Scenes/Dead Man in the Bag.unity
+    guid: 0b34a0e4d6b294f9ea3cce2893f31cf6
   m_configObjects: {}
