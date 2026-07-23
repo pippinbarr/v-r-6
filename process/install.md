@@ -113,3 +113,29 @@ How small would a small enough room have to be? How else can it work? At a certa
 Do I have him in the same room but inaccessible? I think he had more gravitas when he was at the end of a long room and you could get closer to him? The empty space had a meaning because it was space to traverse whereas right now I just have visual empty space which is... empty.
 
 Hmmm. Minivision just now of the asset teleporting to different locations suddenly as the light flashes. Trickery to make it more something... but there's something amiss here for now.
+
+### Day 2 (23 July 2026)
+
+Having another run at this. A few more ideas I thought about while on the train home from university:
+
+- Be in the same (small) room but he's still roped off
+- Return to that idea of him at the end of a long room (no sofas?)
+- The idea of changing the materials of the room so that it's less museum-y (concrete walls and floor?)
+- Flickering lights, lights go out (in big room) when you get to him and you have to find your way back by the light of the only doorway?
+- Construct a complete separate room out of just concrete planes that you enter to see him, could even have an L shaped bed in it for Schneider vibes?
+
+Probably all worth a go until I find something?
+
+...
+
+Trying the long room with a spotlight and... it's not really working. Also it's reminding me of the issue I seem to have with a long seam running down rooms between floor tiles... which... ugh? Probably won't *kill* me but I do not love it.
+
+Made a small room out of planes and a random close-enough texture and... it won't light. I did have some joy killing the weird light seems by completely eliminating environment lighting but that's probably bad in some other way. It really doesn't help in general that we have 1-sided meshes for the stupid museum. I can wrap it all in a box I guess to see if that helps because otherwise the desert will presumably be in trouble for lighting later on if I stick with it.
+
+Ah yes, broken things are broken. Broken broken broken. So easy to break them. How the fuck to show this fucking dead man in a fucking bag. My fucking favourite fucking asset. Fuck fuck fuck.
+
+![](./images/process-screenshots/Screenshot%202026-07-23%20at%2015.08.56.png)
+
+![](./images/process-screenshots/Screenshot%202026-07-23%20at%2015.10.28.png)
+
+Hilariously the origin one with the roped door is *still* probably the best in terms of at least looking a little creepy when you see him from a distance through the doorway. Nothing else has been working *at all*. Probably wise to work on something else for a while.
