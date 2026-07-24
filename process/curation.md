@@ -13,7 +13,7 @@ I think it's time to just think about what works to include. (Also about the ide
 - Stalin Statue ✅
 - Apocalypse Pack ✅
 - Humanoid Creatures Pack
-- Barrels
+- Barrels ✅
 - Dead Man in the Bag ✅
 - Desert Night
 

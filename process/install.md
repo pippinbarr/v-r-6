@@ -139,3 +139,13 @@ Ah yes, broken things are broken. Broken broken broken. So easy to break them. H
 ![](./images/process-screenshots/Screenshot%202026-07-23%20at%2015.10.28.png)
 
 Hilariously the origin one with the roped door is *still* probably the best in terms of at least looking a little creepy when you see him from a distance through the doorway. Nothing else has been working *at all*. Probably wise to work on something else for a while.
+
+## Barrels
+
+Popped some barrels in a room, stacked them a bit, baked the lighting... it looks kind of good. The key idea here was to have them be blocking some of the doors so you would see them in two ways, from inside the room and then also as blocking your way through a particular doorway...
+
+![](./images/process-screenshots/Screenshot%202026-07-24%20at%2014.54.12.png)
+
+![](./images/process-screenshots/Screenshot%202026-07-24%20at%2015.02.45.png)
+
+So I mean... yeah it works just totally fine I think. The lighting is even quite nice in this because I accidentally used a strength 1 light which is quite weak, huh.
