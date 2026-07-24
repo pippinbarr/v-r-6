@@ -145,3 +145,31 @@ The desert I have is.... 8km square which is sort of insane? Like that's a lot o
 Soooooooo. Next up is... I think prefabbing the spaces and starting installs while thinking carefully about lights.
 
 The fact you can go out into the desert *is* cool no question. I will keep it for now.
+
+## Status Check (24 July 2026)
+
+I've been buried deep in the [Curation](./curation.md) and [Install](./install.md) documents for the last 10 days. But it feels like it would be good to do a little stocktake of how it's going. Which is mostly: pretty good?
+
+I've now got a semblance of quite a few of the rooms and a bunch of them are "successful prototypes" in the sense that I think they go in the right direction.
+
+- **Base Man** in a pile is in fun shape though I will want to make the pile much bigger.
+- **PBR Pizza** still needs a decision on whether to have a triptych but definitely the presentation as a massive painting works.
+- **Spaceship** is boring in the right way I think, just an early example of "here is an asset"
+- **Stalin Statue** is workable though maybe a teeny bit underwhelming right now, I think I need to try the roped off version like a crime scene
+- **Apocalypse Pack** as an installation work seems like a really strong idea that can be pulled off, still need to think about the ground though
+- **Barrels** were my most recent and there's something very appealing about them just stacked in a room
+
+Then we have the problem children...
+
+- **Desert Night** involves the beautiful idea of having the museum secretly exist in the desert and to have the player walk out a door into the desert to see the cargo ship looming nearby and then have the game cut out. I love the idea but the execution so far has not been too good.
+- **Dead Man in the Bag** is somehow a recurring failure. I thought this would be the easiest and best but it's deeply underwhelming each time I put it together. I want to evoke Schneider but I'm not succeeding at that just yet. Maybe he could be hidden beind a sofa and unreachable? I'll keep trying stuff.
+- **Humanoid Creatures Pack** is the other funny difficulty. I haven't prototyped anything because I'm stuck on the decision of whether to have just one instance of the monster or many... whether to turn it into the "shed 2" kind of thing from *v r 3* where we look at the asset permutations, or whether we focus on it as a singular element. Whether it should be animated or still, ... and so on. I don't have answers. Instinctively just now I feel like dealing with the permutations version is too tiring to imagine, so probably it will be singular and perhaps an attempt to be displayed "as intended" with a dark room, a single breathing monster, maybe the change of it breaking into a run? I don't want to overcomplicate things though. Hm.
+
+So... next steps are...
+
+- Prototype just the desert and ship and try to get the lighting correct
+- Prototype Dead Man behind a sofa
+- Prototype Stalin crime scene
+- Prototype Creature idle/breathing in a dark room
+
+(Flashing through my mind: A recreation of Marina's works with Base Man)
