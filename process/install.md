@@ -140,6 +140,22 @@ Ah yes, broken things are broken. Broken broken broken. So easy to break them. H
 
 Hilariously the origin one with the roped door is *still* probably the best in terms of at least looking a little creepy when you see him from a distance through the doorway. Nothing else has been working *at all*. Probably wise to work on something else for a while.
 
+### Day 3 (27 July 2026)
+
+Tried out a small room with one door and the man in a corner with a sofa leaned over the top of him and a spotlight. Getting kind of strangely elaborate? I think it does better than other stuff?
+
+The scale of the room, even the smallest room I can reasonably make (because of requirments around walls with doors and the corner pieces) still seems colossal relative to the man.
+
+![](./images/process-screenshots/Screenshot%202026-07-27%20at%2014.23.10.png)
+
+I'm still fond of the concrete narrow space which would evoke Schneider? Funny how hard this is!! I'm trying it out now with... some success? Grabbed some concrete by [patternpanda](https://patternpanda.org/concrete.html) as a starting point and have been probuilding a simple structure inside a gallery room to create the shape I want. I just lit it and it's so much better I'm amazed. I can and will mess around more with how the structure works but:
+
+![](./images/process-screenshots/Screenshot%202026-07-27%20at%2014.55.21.png)
+
+I do think we have a winner here. I'll close off the ends of the t and look at making it more claustrophic. I do quite like having the open ceiling to definitely let you see that you're still in a typical museum room, but a really low ceiling could also be quite good. I can try both out. I can at least make the walls much height and that should do something. Clamp the ends, narrow everything as much as I can. I think we have it. Maybe he could be around a corner? Though the view towards him is really nice I feel... I'll play.
+
+Building for webgl and a push.
+
 ## Barrels
 
 Popped some barrels in a room, stacked them a bit, baked the lighting... it looks kind of good. The key idea here was to have them be blocking some of the doors so you would see them in two ways, from inside the room and then also as blocking your way through a particular doorway...
