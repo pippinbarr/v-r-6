@@ -203,3 +203,15 @@ One last experiment with baking the directional light (moon) and then I swear I 
 ![](./images/process-screenshots/Screenshot%202026-07-28%20at%2015.15.06.png)
 
 A mere 13.6MB too so thaaaaaat's nice.
+
+## Humanoid Creature
+
+Trying out the most basic idea of the creature idling in the centre of the room with its back to you. Trying out having it be extra big. Trying to figure out the lighting situation since an area light (which I'm using) is bake only and the creature is animated so cannot receive baked light...
+
+Maybe we play with a shadow? I baked the light onto it with a light probe and it looks really nice, but the lack of a shadow is frustrating...
+
+HMMMMM. Well something to address tomorrow. Always nice to have... something to address... tomorrow.
+
+Creature *does* look really nice at a large scale. Room still looks kind of barren though.
+
+![](./images/process-screenshots/Screenshot%202026-07-28%20at%2018.53.26.png)
