@@ -181,3 +181,25 @@ Popped some barrels in a room, stacked them a bit, baked the lighting... it look
 ![](./images/process-screenshots/Screenshot%202026-07-24%20at%2015.02.45.png)
 
 So I mean... yeah it works just totally fine I think. The lighting is even quite nice in this because I accidentally used a strength 1 light which is quite weak, huh.
+
+## Desert Night
+
+Started working on this without worrying about the integration of the museum. In my mind I'm seeing the museum inside a large concrete box with a single door. I'm seeing the idea that when you get the door it auto rotates you to look ahead and walks you out then disappears the museum... should work.
+
+Hard to make the desert feel the way I want lighting wise which is funny. I should probably learn the proper ways but for now I'll flail.
+
+I think it's... ok. I'm concerned that the truth is that this asset is just too fucking big to include. I'll build a webgl after the next bake and see what it's adding to the basic 15MB or so. If it's ridiculous I might abandon, though without it I'm at risk of not having an ending.
+
+Every bake takes a really long time because it's a reall big desert. I don't really need the desert to be so big but I don't think I can straightforwardly scale it back. Maybe I'll look into that as having more of a 2x2 or even 1x1 desert segment would like be better than this mammoth thing. Though then I run the risk of weird horizon shit. But yeah it would be nice not to be dealing with quite so much of it.
+
+Another fuckup with a baked directional light jeeeeeeesus. So I'm just gonna export a webgl of this to see and then give up for a sec and move on. It's only 15.4MB so... well that's good.
+
+Also just noticed the cargo ship wasn't static so no wonder it was too dark. I dunno man. Lighting is hard. I'm gonna play with it a touch more then stop for the day on this. It's better than it has been. THat's about as much as I can say...
+
+![](./images/process-screenshots/Screenshot%202026-07-28%20at%2015.11.34.png)
+
+One last experiment with baking the directional light (moon) and then I swear I will stop doing this. Hey maybe it finally worked... or maybe it looked identical to the real time version... whatever.
+
+![](./images/process-screenshots/Screenshot%202026-07-28%20at%2015.15.06.png)
+
+A mere 13.6MB too so thaaaaaat's nice.

@@ -35,7 +35,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Prototyping Scenes/Dead Man (Inner Concrete Room).unity
     guid: 4dcbada5057374980a3627c1d9b03cbc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Prototyping Scenes/Stalin (Crime Scene).unity
     guid: 046157f90e2744b78909b7a17eb00aab
+  - enabled: 1
+    path: Assets/Scenes/Prototyping Scenes/Desert Night (Basic).unity
+    guid: 4c4bf93ad85fc4b09accd05a998589c6
   m_configObjects: {}
