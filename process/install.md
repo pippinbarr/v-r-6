@@ -22,6 +22,10 @@ I also wonder about having no lighting at all or really minimal lighting so he's
 
 Made Stalin as big as he can be while still fiting into the room (diagonally). I think it's kind of good enough for now, though will need a serious revisit.
 
+### 28 July 2026
+
+A serious revisit ensues with "Crimescene Stalin" haha. He's now at monument size (not supersize) and roped off... which I think is starting to work, or may in fact work. The way he falls and stays is face down which means his face is in shadow and cannot be seen which is... kind of good? Could experiment with him face up, but face down may be best.
+
 ## Pizza
 
 ### 20 July 2026
