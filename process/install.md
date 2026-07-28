@@ -1,5 +1,11 @@
 # Install 
 
+## Meta
+
+- Are we too tall?
+- Are we too fast?
+- Do we like all the extra movement stuff (no)
+
 ## Stalin
 
 ### 17 July 2026
@@ -155,6 +161,12 @@ I'm still fond of the concrete narrow space which would evoke Schneider? Funny h
 I do think we have a winner here. I'll close off the ends of the t and look at making it more claustrophic. I do quite like having the open ceiling to definitely let you see that you're still in a typical museum room, but a really low ceiling could also be quite good. I can try both out. I can at least make the walls much height and that should do something. Clamp the ends, narrow everything as much as I can. I think we have it. Maybe he could be around a corner? Though the view towards him is really nice I feel... I'll play.
 
 Building for webgl and a push.
+
+### Day 4 (28 July 2026)
+
+Narrowed the space, capped the ends, made the walls slightly diagonal per Jim, could do more of that kind of slight uncanny stuff. I think will work. I'm obviously going to rebuild from scratch later though.
+
+Still no 100% there. I think the view we get is now perhaps too narrow. Maybe the hall can start narrow and widen a bit. Also when you come to actually stand near the body it's still kind of underwhelming. May be that you shouldn't be able to get to it at all. What about a platform? Zoom is our friend here too. Maybe the player's height being reduced helps?
 
 ## Barrels
 

@@ -1,3 +1,4 @@
 # To-do
 
-- Begin
+- Beginning ✅
+- Middle

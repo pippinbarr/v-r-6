@@ -10,3 +10,6 @@ So it looks like the tl;dr why is:
 
 - Create a space for an audience to appreciate and engage with assets-as-art through the lens of a single creator as a way to refine specific ideas from *v r $4.99*
 - Work on a project that affords me some play in terms of staging and strangeness of space and architecture (ala *v r 1*) in relation to the above
+
+## Why 2 (27 July 2026)
+
