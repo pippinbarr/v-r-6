@@ -206,6 +206,8 @@ A mere 13.6MB too so thaaaaaat's nice.
 
 ## Humanoid Creature
 
+## Day 1 (28 July 2026)
+
 Trying out the most basic idea of the creature idling in the centre of the room with its back to you. Trying out having it be extra big. Trying to figure out the lighting situation since an area light (which I'm using) is bake only and the creature is animated so cannot receive baked light...
 
 Maybe we play with a shadow? I baked the light onto it with a light probe and it looks really nice, but the lack of a shadow is frustrating...
@@ -215,3 +217,17 @@ HMMMMM. Well something to address tomorrow. Always nice to have... something to 
 Creature *does* look really nice at a large scale. Room still looks kind of barren though.
 
 ![](./images/process-screenshots/Screenshot%202026-07-28%20at%2018.53.26.png)
+
+## Day 2 (29 Juy 2026)
+
+Did get the spotight working. Yeah... this is good. The fact of the movement is actually a huge difference maker. It's the only thing moving in the world so it's quite quite striking in fact.
+
+![](./images/process-screenshots/Screenshot%202026-07-29%20at%2013.42.55.gif)
+
+I quite love it now. The idea of the shadow being the first thing would be neat if it's possible? Maybe a bit obvious? Bit of a nod to Bioshock? Bit of a whatever? Bit of an interference with whatever is in the previous room?
+
+Building webgl in part to see if the shadow stays or whether I have build quality problem stuff to address... 19.5MB... nope no shadow and looks almost comically cartoony. But that bit's okay. The shadow sucks and I'll have to work on it.
+
+![](./images/process-screenshots/Screenshot%202026-07-29%20at%2013.47.28.png)
+
+Just found myself writing in the commit and will include here too: try adding a seat in front of the creature as a way of suggesting to stop and look. But also the weirdness of the threat and the fear versus the prolonged contemplation... good stuff?

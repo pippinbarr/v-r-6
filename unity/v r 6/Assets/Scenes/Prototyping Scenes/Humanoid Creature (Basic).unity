@@ -151,8 +151,8 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
-  m_Range: 10
+  m_Intensity: 3.02
+  m_Range: 15.4
   m_SpotAngle: 69.04796
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -193,7 +193,7 @@ Light:
   m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
+  m_BounceIntensity: 0
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
@@ -209,13 +209,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 18962982}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.057778455, y: -0.9330018, z: 0.17411892, w: 0.30959943}
-  m_LocalPosition: {x: -21.852438, y: 4.8238487, z: 9.556541}
+  m_LocalRotation: {x: 0.07876738, y: -0.9189478, z: 0.23737065, w: 0.30493587}
+  m_LocalPosition: {x: -20.86, y: 5.46, z: 10.88}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 28.967, y: -143.285, z: 0}
 --- !u!1 &556419203
 GameObject:
   m_ObjectHideFlags: 0
@@ -674,6 +674,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 1e87f3673c66b405dbcaad9ffeecafed, type: 2}
+    - target: {fileID: 137999844503559626, guid: 5f0e640f434e7b240be34f48342cbeea, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
