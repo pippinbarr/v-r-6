@@ -12,10 +12,10 @@ I think it's time to just think about what works to include. (Also about the ide
 - Spaceship ✅
 - Stalin Statue ✅
 - Apocalypse Pack ✅
-- Humanoid Creatures Pack
+- Humanoid Creatures Pack ✅
 - Barrels ✅
 - Dead Man in the Bag ✅
-- Desert Night
+- Desert Night ✅
 
 ### PBR Pizza ✅
 

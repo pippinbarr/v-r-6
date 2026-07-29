@@ -173,3 +173,21 @@ So... next steps are...
 - Prototype Creature idle/breathing in a dark room
 
 (Flashing through my mind: A recreation of Marina's works with Base Man)
+
+## Install "Complete" (29 July 2026)
+
+Not really, but I have a workable prototype version of all the assets I was thinking of showing, pending adding anything new to the mix (I think probably not).
+
+A next step will, I think, be to look at the different room shapes and see how they map together into a path through the exhibition – I suspect just something linear is going to make the most sense.
+
+Also should think a bit about an information/introduction thing.
+
+And the whole question of an audio guide, what to say, how to record, how to make it work, whether it should be diegetic or not, whether it should just run and you can hit a key/button to tell it to shut up.
+
+Need to try out the museum in the desert sequence.
+
+Need to actually build out all the rooms for realsies and face up to subsequent technical and size issues.
+
+Buuuut... conceptually we're in a good spot?
+
+Onward and onward with the arts.
