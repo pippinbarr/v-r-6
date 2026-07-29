@@ -206,7 +206,7 @@ A mere 13.6MB too so thaaaaaat's nice.
 
 ## Humanoid Creature
 
-## Day 1 (28 July 2026)
+### Day 1 (28 July 2026)
 
 Trying out the most basic idea of the creature idling in the centre of the room with its back to you. Trying out having it be extra big. Trying to figure out the lighting situation since an area light (which I'm using) is bake only and the creature is animated so cannot receive baked light...
 
@@ -218,7 +218,7 @@ Creature *does* look really nice at a large scale. Room still looks kind of barr
 
 ![](./images/process-screenshots/Screenshot%202026-07-28%20at%2018.53.26.png)
 
-## Day 2 (29 Juy 2026)
+### Day 2 (29 Juy 2026)
 
 Did get the spotight working. Yeah... this is good. The fact of the movement is actually a huge difference maker. It's the only thing moving in the world so it's quite quite striking in fact.
 

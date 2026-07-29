@@ -2,6 +2,18 @@
 
 Wherein I write about the specific pieces for inclusion, the philosophical/aesthetic perspective of the show, and especially the taxonomic potential for exhibiting these kinds of works (models, animations), with things like animation, speed, scale, lighting, rotation, translation, and so on.
 
+## Spaces (Started 29 July 2026)
+
+I need to think about the flow of the rooms now. I fired up a keynote as a way to do that and got stuck here:
+
+![](./images/process-screenshots/Screenshot%202026-07-29%20at%2014.56.42.png)
+
+Not stuck but just tired? Laying out the rooms together and thinking about how they will or won't work together is hard. It made me think the base man deserves a huge room full of him... I think that would be appreciated. It made me think I would want a big "pictures" room but then I worry it won't actually be tenable because the pictures look so kind of horrible stretched and so on? They're so tiny by default though and so boring if they're all just laid out in a grid?
+
+And there's just the classic linear versus hub and spoke kind of stuff around the spaces. Do I want to just lead the player through a sequence or should there be "hub worlds" where multiple rooms are accessible? May feel more interest, but also necessarily makes the place feel kind of sma... no does that make sense?
+
+Anyway it's a *moment* and I'll address it further tomorrow.
+
 ## Works (Started 15 July 2026)
 
 I think it's time to just think about what works to include. (Also about the idea of not fussing too much about rooms, just have a set of rooms, one per work, and install them in a way that I like.) I think in terms of the works to include it should almost entirely be things that I just think are interesting themselves, less about the sweep of Maksim's career/approach and more about the act of contemplating the work of a single person, not necessarily trying to "solve" it but to invite questions and comparisons from the audience. I don't think I need a "perspective" that I'm bringing to this necessarily - the project is the selection and installation of the work and what emerges out of that, the conversation with materials under these specific constraints ideally revealing itself in interesting ways? (I should write another why.)
