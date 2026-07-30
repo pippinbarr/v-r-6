@@ -4,6 +4,8 @@ Wherein I write about the specific pieces for inclusion, the philosophical/aesth
 
 ## Spaces (Started 29 July 2026)
 
+### Day 1 (29 July 2026)
+
 I need to think about the flow of the rooms now. I fired up a keynote as a way to do that and got stuck here:
 
 ![](./images/process-screenshots/Screenshot%202026-07-29%20at%2014.56.42.png)
@@ -13,6 +15,58 @@ Not stuck but just tired? Laying out the rooms together and thinking about how t
 And there's just the classic linear versus hub and spoke kind of stuff around the spaces. Do I want to just lead the player through a sequence or should there be "hub worlds" where multiple rooms are accessible? May feel more interest, but also necessarily makes the place feel kind of sma... no does that make sense?
 
 Anyway it's a *moment* and I'll address it further tomorrow.
+
+### Day 2 (30 July 2026)
+
+#### First thoughts
+
+Made another sketch:
+
+![](./images/process-screenshots/Screenshot%202026-07-30%20at%2013.50.57.png)
+
+In making it started to think again about questions of trajectory. For instance I was just looking at the Pizza room in editor and though of how it does make sense to have it near the Pictures room, but also the idea that it could feel nice to walk through the Pizza room with the pizzas to the side like a transitional space. But then how the thin room doesn't allow that door configuration which is frustrating.
+
+I'm worried just a bit that the spaceship is a bit too boring to start with, not spectacular enough. But I do like that thought of a really "normal" beginning turning weirder.
+
+#### Linearity?
+
+A lot of the rooms don't really admit of you passing through at the moment, but they could. Rooms that can't really have an exit would be Pizza... maybe that's all. I think Dead Man probably can't either because it makes the space not feel claustrophobic enough.
+
+And once you have a couple of non-transitional rooms it may make more sense to go hub. Current I think have the Apocalpypse space leading you out to the creature to the desert which... I think that kind of works. In fact the Apocalypse Space is probably the one place where casting a shadow from the creature into that space would be fine. But maybe also just not very noticeable?
+
+Here is an essentially linear version:
+
+![](./images/process-screenshots/Screenshot%202026-07-30%20at%2014.04.22.png)
+
+Assumes I can install the pizzas in a very large room which... maybe I can more in the style of the giant sculptural form leaning against the walls, perhaps just two of them. Assigns THREE doors to Dead Man which makes no sense at all.
+
+#### Stairs
+
+Starting to think about stairs. Thinking about Apocalypse-to-Desert as a smart choice that makes sense... let me assume I could make stairs (NOT a safe assumption) and see what that would be...
+
+Hmmm... with stairs I'm running into the linear problem, notably with Dead Man but also a bit with Pizza. Maybe Dead Man could just be super uncanny, a break in the general nature of things? Easy to miss though? Ooh or I suppose you could do the thing where you go in and then come out a different door? But could get weird. But worth a thought and try.
+
+![](./images/process-screenshots/Screenshot%202026-07-30%20at%2014.19.08.png)
+
+#### Weaving
+
+I'm thinking about weaving back and forth through a single floor? Linear but curving. Use that Dead Man trick in there somewhere.
+
+Something like:
+
+![](./images/process-screenshots/Screenshot%202026-07-30%20at%2014.24.37.png)
+
+Or maybe something like:
+
+![](./images/process-screenshots/Screenshot%202026-07-30%20at%2014.41.28.png)
+
+The second one to move the pizza earlier because it feels odd to have it so late. Entering the base made from the side means you won't get a big preview as you turn in. Going from Dead Man to Creature is nice because it would be almost a "jump scare" in the right way. Creature to Apocalypse to Desert makes sense as well.
+
+So y'know what... that might be the layout to pursue for realsies. It's even a fairly convincing building shape?
+
+#### Gift shop
+
+I'm thinking about a gift shop with miniature versions of all the models that would take you to the website for that asset.
 
 ## Works (Started 15 July 2026)
 
