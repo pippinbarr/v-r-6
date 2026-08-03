@@ -231,3 +231,19 @@ Building webgl in part to see if the shadow stays or whether I have build qualit
 ![](./images/process-screenshots/Screenshot%202026-07-29%20at%2013.47.28.png)
 
 Just found myself writing in the commit and will include here too: try adding a seat in front of the creature as a way of suggesting to stop and look. But also the weirdness of the threat and the fear versus the prolonged contemplation... good stuff?
+
+## Gift Shop
+
+### Day 1 (3 August 2026)
+
+Trying out this idea which feels crucial. I'm taking a simple two door square room. I added two shelves and two long tables and put everything on them. 
+
+Decided to include all Stalin heads for completeness, but represented the Apocalypse pack via two buildings and the Cargo Ship which may not be right.
+
+![](./images/process-screenshots/Screenshot%202026-08-03%20at%2013.24.07.png)
+
+![](./images/process-screenshots/Screenshot%202026-08-03%20at%2013.30.59.png)
+
+It WebGLed to 53MB which I'm hoping is a good sign in terms of it including every asset I'm using? Obviously the lightmaps are going to take some fairly serious territory, but the fact I have every asset (other than the desert) in a single scene without it somehow being 10,000,000MB is positive.
+
+I think it obviously works. There's some thinking to be done around labelling. Increasingly returning to the idea of simpler wall-based labels for everything, maybe big ones where I get to explain some stuff? It's a way.

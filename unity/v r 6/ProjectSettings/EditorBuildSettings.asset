@@ -44,7 +44,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Prototyping Scenes/Humanoid Creature (Basic).unity
     guid: 9bc5b918e3951447da2d4d6c90402ad6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Technical Test Scenes/Dead Man Technical Test.unity
     guid: 2ad9cf00d56a64a8b9246059a164b8ad
+  - enabled: 1
+    path: Assets/Scenes/Prototyping Scenes/Gift Shop (First Test).unity
+    guid: 8a285a46b35ca4a2fa11958817f4fb2c
   m_configObjects: {}
