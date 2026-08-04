@@ -191,3 +191,17 @@ Need to actually build out all the rooms for realsies and face up to subsequent 
 Buuuut... conceptually we're in a good spot?
 
 Onward and onward with the arts.
+
+## Pippin x Mazmo (4 August 2026)
+
+Engaged in an attempt to prepare something for a thing called Mazmo, just the single Base Man room. Spent... a lot longer than anticipated sitting at our patio table carefully dropping different numbers of Base Man onto a growing pile live, then removing character joints and rigid bodies and copying the now static base men back into the scene. Plenty of trouble, plenty of exploding piles of base men, invisible base men, floating base men, not-piled-high-enough base men. 
+
+![](./images/process-screenshots/Screenshot%202026-08-04%20at%2010.42.54.png)
+
+Did eventually find a workflow that let me make a decent pile of 158 base men reaching pretty high.
+
+![](./images/process-screenshots/Screenshot%202026-08-04%20at%2011.45.51.png)
+
+![](./images/process-screenshots/Screenshot%202026-08-04%20at%2011.45.56.png)
+
+Which... I think you cannot truly have the perfect pile of men. So there's a point of diminishing man-returns to consider. This pile is quite nice. I think it's doable for the final game on my end as well as for Mazmo.
