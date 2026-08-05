@@ -50,7 +50,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Prototyping Scenes/Gift Shop (First Test).unity
     guid: 8a285a46b35ca4a2fa11958817f4fb2c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ZIUM/Pippin x ZIUM.unity
     guid: 34087bbbb9c9a4904aa0601ad1a057de
   m_configObjects: {}
