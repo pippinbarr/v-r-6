@@ -96,7 +96,7 @@ Maybe there are specific markers though that I could do like
 - Ragdoll orb to pile
 - Singular ragdoll man (the exact one)
 - Multiple ragdoll orbs
-- Trapped ragdoll orb?
+- ~~Trapped ragdoll orb?~~
 - Single drop ragdoll pile
 - Starting with a static pile and dropping a smaller number on top (maybe the 100, 50, and then dynamically for the last 8)
 
@@ -107,3 +107,13 @@ Can cut up the sound files and switch between elements as the sound files comple
 I think this is doable... but I'd have to do it... this afternoon and tomorrow. Which... well maybe, maybe. Realtime lighting to make it easier though. A build in Michael's setup.
 
 God... really interesting.
+
+## 2 (7 August 2026)
+
+Well in a rush I actually implemented *all* of the ideas there. Which includes scripts for instantiating dropping men. Then we also have a narrator script that switches between the stages triggering audio as we go (just realized I should change it to depend on audio duration so one sec while I do that... done.) In a loop... it alllll works. Amazing. I know it's all simple shit, but I won't deny myself the happiness of being happy.
+
+So... Mazmoing is going well. The remaining major hurdle is recording audio for each of those stages. Which... well there's the dumb version where I just riff it out and maybe that's the best in the end. Could try to squeeze it in late at night? Just to be done with it? Snowball? AirPods?
+
+I'd like to at least try because I think it would be an amazing piece of acceleration just upon leaving on vacation. A proper accomplishment on multiple fronts. Could even exhibit this thing in Copenhagen at that point.
+
+So yeah. Yeah yeah yeah. Or I suppose if I was being ultra hardcore I would do it in the next hour but... I want a break.
