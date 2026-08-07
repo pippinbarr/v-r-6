@@ -82,11 +82,47 @@ Some things...
 
 We are getting close.
 
+## 7 August 2026
+
+Mmm... so we're probably juuuuust about at a point where I could do this abstract properly and send it. That would be a pretty dream scenario to finish today? Not due until 31st though so there's a full week home before it has to go in... I guess it's a q of "strike while the iron is hot" or not?
+
+If I revisit those categories I think
 
 
+> - Video Games in Museums
 
+The asset approach is a form of this. Questions of exhibition (why assets), collection (which assets), display design (staging), acquisition (ethics, communication), interpretation (poetic license), selection criteria (I have them), display (again), interaction (interesting question), preservation (a kind of archiving), and mediation (interpretive stance for the player)
 
+> - Museums in Video Games
 
+Representations of galleries (ArtExpo asset, traditional ideas, spatial design), exhibition displays (ropes, placement, safety), archives (game as archive), collections (again), storage facilities (not really), wunderkammern (nice word and yet), archaeological sites (eventually), and cultural institutions in game worlds (at least evoking that); the narrative, spatial, and symbolic functions of the museum as a playable environment (mine is like the play of attention? interpretation? encounter? not so much a game...).
 
+> - Enunciation, Spectatorship, and Agency
 
+Positions of the visitor (who are you, a capsule, a viewer, a camera, an interested/curious person), player (do you play? is it playful?), and spectator (difference?); regimes of vision, presence, participation, waiting, manipulation, and interpretive responsibility. (I like interpretive responsibility?)
 
+> - Collection, Inventory, and Value
+
+Forms of collecting in museums and video games (mine is pretty bespoke, esoteric, preferential); catalogues, databases, achievements, completionism, rarity and scarcity, accumulation, selection, and cultural hierarchies.
+
+So yeah very clearly I'm addressing ideas they want addressed.
+
+So then the question is how do I write the abstract? Do I simply improve the one I already have and send and if they're not so into it I would have time to tweak it around?
+
+--
+
+### Videogame Museum as Technique: Me and Maksim Bugrimov (abstract attempt)
+
+I wanted to celebrate the 3D modeler Maksim Bugrimov, whose assets I've long been a fan of. I wanted to think about what assets are and what they mean on their own. I wanted make my own meanings with assets outside games. I wanted to share with players the sense of magic found in seeing behind the curtain of a videogame world. I wanted to show them Maksim's monsters and apolocalypsis with all the beauty of the shrub asset Chad saw that day in Alan Wake. So I made a videogame musem of videogame assets by Maksim Bugrimov in a videogame.
+
+Videogames are monoliths, sealed off from their players who mostly have no way of seeing behind or through or inside the world they play in. Even for those of us who make games, who manipulate the assets, who rev the game engines, it is all too easy to see only the world to be instead of the  pieces and materials and stuff we are working with.
+
+The seal is a problem because seeing within is special, privileged, and important. The seal is a problem because technology writ large is dominant and authoritarian and we must think about and encounter its inner nature. We need ways to step through the polished surfaces of software and cellphones to see inside. We need looking glasses to pass through and videogames are looking glasses. They can give us entry not just into their worlds, but into themselves.
+
+A videogame can be a museum of videogames. A museum in a videogame can show and expose the materials of videogames, its own materials, for anyone who visits. Players can spend time estranged from play and playthings to look at the stuff of their worlds up close and unfamiliar. Makers can spend time estranged from their tools and objects to look at the stuff of their worlds up close and unfamiliar. This is the videogame museum as technique.
+
+When walk inside the walls of the games we play, when we find them strange again, when the bend of a young tree in a forest is a marvel, then we can come to new understandings. We will see more clearly, play more deeply, and make things new.
+
+...
+
+Well, reader, I sent it in.
