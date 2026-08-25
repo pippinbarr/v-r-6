@@ -4,7 +4,7 @@ public class DripFeedMan : MonoBehaviour
 {
     public GameObject _baseMan;
     public GameObject _parent;
-    public int maxDrops = 5;
+    public int maxDrops = 10;
     private int drops = 0;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created

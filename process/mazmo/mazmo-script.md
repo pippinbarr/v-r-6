@@ -2,6 +2,98 @@
 
 Wherein I try to write a script for the voiceover for Mazmo.
 
+## Thought: Just ad lib about each thing from some bullet points (24 August 2026)
+
+### Final
+
+![](./images/final-fuckpile.png)
+
+- The nature of v r 6, museum space from a kit called Art Gallery Expo by LaikaBossGames. $19.
+- Maksim Bugrimov, v r $4.99 and the creatures, Dead Man in the Bag, Base Man
+- The question of how to exhibit a solo asset creator, the decision to play with the presentation
+- I had a vision of the base man as a kind of fellow audience member, standing deep in thought in front of a painting, finger resting on his lips
+- Falling in love with a base man -- the possibilities of a person
+
+### T-pose
+
+![](./images/t-pose.png)
+
+- Was in the corner near the door
+- Base Man, Wicked Man, Having or showing a lack of decency; contemptible, mean-spirited, or selfish; Being a metal that is of little value; 
+- Value. Base Man was free.
+- Base man is ripped, white passing, clean shaven, clipped toenails...
+- Who is he?
+
+### Barrel
+
+![](./images/barrel-man.png)
+
+
+- I put him on a barrel to increase his gravitas
+- Sculptural, visions of a whole sculpture section, Don Driver, Late for Meeting car ride
+- Calvin and Felix, seeing his butt, his privates, the nude, Robert Yang's offer of a dick rig
+
+### Rag man on the floor
+
+![](./images/floor-man.png)
+
+- Rag dolls are a fascination, Rag Doll Kung Fu, a more human body
+- Dropping him from a height onto the floor, watching him settle down
+- A dead body, a Dead Man not in the bag, less mystery, less creepy, just a body, nothing more to reveal
+
+### Rag man on the sofa
+
+![](./images/sofa-man.png)
+
+- Wanting a more complex pose, the museum space came with a sofa, dropped him onto it
+- His head would sometimes wobble back and forth
+- He looked sexualized when he fell on his back, legs akimbo, less dead, inviting but uncomfortable
+
+### Rag Orb
+
+![](./images/man-orb.png)
+
+- Wanted a pile of men, the power of numbers
+- Copied and pasted the man in the same place 50 times, 100 times and ran the game, simulated the physics
+- The shock of the orb, memories of the creature at the end of Inside, the genuinely freaky creature in the Russian antarctic borehole movie The Superdeep, The Thing
+- Horror in superposition and physics
+
+### Orbman Isolated
+
+![](./images/one-orb-man.png)
+
+- Accidentally missed deleting a single man from a man pile and he was beautiful
+- This one isn't the one I saw, this is a different one but I tried to capture the same kind of rapturous impossible post (the other was as if in mid knee slide, this one more contemporary dance move)
+- Ragdolls and base men and the possibilities of movement and dance
+
+### Dripfeed men
+
+![](./images/dripfeed-men.png)
+
+- The orbs were too hard to control, sprayed men everywhere
+- Developed a system to drip men onto the ground one by one, watching them pile up in dissatisfying ways, creating stacks that would tip and fall
+- Ran into trouble with copying too many rag men at once just not working
+- Had to develop a system for manipulating them while the scene was running, deleting joints and rigidbodies and then copying them now that they were less complex
+- Building systems for building piles of base men
+
+### Fuckpile builder
+
+![](./images/fuckpile-builder.png)
+
+- The final version involved building a pile more manually to get a satisfying peak in the middle, dragging men around to adjust them
+- Man as clay, flopping around obligingly, weighing nothing to me
+- Then I could freeze the growing pile and accumulate the men
+
+### Final again
+
+![](./images/final-fuckpile.png)
+
+- And so I ended up with my pile of men, a sculpture, one way of seeing a base man
+- But I'm in love, I want to make an entire museum of the base man, every way I can use him, work with him, manipulate him, drop him, stretch him
+- Musical tone at the end to indicate the ending
+
+---
+
 ## Thought: Read aloud from process journal (7 August 2026)
 
 That would be one way to do it. Maybe without explanation? Let me pull some quotes and see what it could be like?
