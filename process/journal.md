@@ -205,3 +205,19 @@ Did eventually find a workflow that let me make a decent pile of 158 base men re
 ![](./images/process-screenshots/Screenshot%202026-08-04%20at%2011.45.56.png)
 
 Which... I think you cannot truly have the perfect pile of men. So there's a point of diminishing man-returns to consider. This pile is quite nice. I think it's doable for the final game on my end as well as for Mazmo.
+
+## Pippin x Mazmo 2 (26 August 2026)
+
+Yesterday I packaged up and shipped the separate build of my *v r 6* Base Man process thing off to Mazmo. Actually I think now that the thing has been made public I can just say it's for the ZIUM?
+
+Went through a lot of work on this which is detailed in the `mazmo` sub-folder, particularly in [mazmo-thinking](./mazmo/mazmo-thinking.md) and [mazmo-script](./mazmo/mazmo-script.md). Essentially because Michael Mazmo asked me for process oriented somethings I ended up leaning toward making a room that shows the process of the Base Man within v r 6, starting with t-pose, through t-pose on a barrel, ragdoll, on a sofa, and so on up to the pile itself. I made a narration to go with that and it kind of plays through in a single room which the different ideas popping in and out as I talk about them. Kind of neat and definitely of relevance to thinking abotu MDM kinds of thing. Like... does it make sense to do this sort of thing more commonly? Voice-over *is* kind of fun? Or... well I dunno. No? Yes?
+
+At any rate it's done. Probably not to the highest standard conceivable but definitely not bad and I think an interesting adventure for me. This also all plays into the *Carte Semiotiche* writing because that's very much the kind of stuff I'll write about there, and then also into the eventual *v r 7* featuring just the base man permutations.
+
+So I'm happy with the result here. Curious to see how it shows up in the ZIUM proper... I suspect it'll look a bit rough around the edges, but everything's a prototype baby.
+
+One thing I did unexpectedly end up with is a beautiful manny desktop image that's from the man pile:
+
+![](./mazmo/images/mercedez-bunz.png)
+
+Lovely.
