@@ -221,3 +221,19 @@ One thing I did unexpectedly end up with is a beautiful manny desktop image that
 ![](./mazmo/images/mercedez-bunz.png)
 
 Lovely.
+
+## Re-orientation (27 August 2026)
+
+Okay I need to reorient myself to the project because I headed off on vacation to Copenhagen and London and thought almost not *at all* about this whole thing during that time. Which was great, but now we must return.
+
+My memory of it is that I was due to pretty much build out the museum for realsies... let me read the last journal entry... and the [build](./build.md) stuff... aaaaand... okay.
+
+Okay so we're in the position of needing these things I think:
+
+- Installing works "for real" based on the prototyping. (Particularly challenges around the post-apocalyptic pack fitting its new space.)
+- Installing in the desert in a building at all (and seeing the impact on lighting, build sizes, etc.)
+- Implementing the museum to desert trick
+- Deciding on voiceover approach (after the success with Mazmo) (I had an idea just moments ago of having a kind of array of remarks that would play sort of disjointedly while you're in the room, maybe randomly even, ending with "I think that's all I have to say" or something.) So there would be a chance to just leave and ignore. Would need triggers and some underlying tech for it, but doable. Needs question of audio transitions when they leave the room (rapid fade? cut-off sound?)
+- A title screen/experience. Question of an initial text, but maybe that's just in the first room? Or is there a first first room? Or a screen before the first room where I talk? Or buhhhhhhhh. Or I could get rid of the spaceship conceivably... it is quite boring? Or I could use that room as the start and just offhandedly talk about the spaceship as not so important? 
+
+Is that kind of it? It's certainly not insurmountable. The most "easy" is to just start the install.
