@@ -39,3 +39,7 @@ Huh, I guess I haven't been writing as much here as I should, though a lot of it
 I just got done trying out a different approach to the Base Man room which got bigger and turns out to be really irritating to light (in this version of Unity? Dunno). I'm now working with a roped off area and then a thick layer of men poured inside that – I'm getting better and better at pouring layers of men. I think it mostly worked though I'm not suuuuuuper happy with the shapes around the ropes because there's a box collider there instead of a mesh collider so it's... imperfect. I might well remake it another time with mesh colliders then switch back to box for the game proper since I can bake/freeze where they end up with the more complex physics. It looks... fairly good. I'm lighting them with two point lights which then inevitably suck and create visible seams on the walls which I'm combatting by shifting the material properties a bit but... well we'll see we'll see.
 
 Anyway I think this basic concept, a pool of men, works. So I'll carry on.
+
+...
+
+Later on I did a sweep of the barrels room that I think is alright? I wonder if I'll get in trouble for not perfectly balancing them on each other? As in the light baking bit will be sad at me or something? Will see. Baking now. The room basically looks nice. (Next is Dead Man which feels like it'll be a challenge.)
