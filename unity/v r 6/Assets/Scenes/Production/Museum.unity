@@ -62497,6 +62497,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 808302954}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &341806215 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7338665670218602269, guid: da46b229189fb4ac8bab079388699451, type: 3}
+  m_PrefabInstance: {fileID: 1998200894}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &342482449
 GameObject:
   m_ObjectHideFlags: 0
@@ -217509,6 +217514,100 @@ Transform:
   - {fileID: 1293457349}
   m_Father: {fileID: 423427036}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1182229372
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1182229373}
+  - component: {fileID: 1182229374}
+  m_Layer: 0
+  m_Name: Point Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1182229373
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1182229372}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 5.51, z: 6}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 341806215}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!108 &1182229374
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1182229372}
+  m_Enabled: 1
+  serializedVersion: 10
+  m_Type: 2
+  m_Shape: 0
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Intensity: 0.6
+  m_Range: 10
+  m_SpotAngle: 30
+  m_InnerSpotAngle: 21.80208
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 0
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
 --- !u!1 &1182733356
 GameObject:
   m_ObjectHideFlags: 0
@@ -227617,7 +227716,7 @@ MonoBehaviour:
     type: 0
     inputName: Zoom
     inputNameSecondary: 
-    key: 122
+    key: 323
   - buttonName: Jump
     type: 0
     inputName: Jump
@@ -227714,7 +227813,7 @@ MonoBehaviour:
       m_RotationOrder: 4
     zoomInput: Zoom
     fieldOfViewKick:
-      enableFOVKick: 1
+      enableFOVKick: 0
       unscaledTime: 0
       kickWhen: 1
       kickAmount: 15
@@ -227794,7 +227893,7 @@ MonoBehaviour:
       regenRateStill: 0.8
       regenRateMoving: 0.5
       regenWait: 1
-    canJump: 1
+    canJump: 0
     jumpingRequiresStamina: 0
     jumpStaminaRequire: 1
     jumpStaminaCost: 1
@@ -227884,7 +227983,7 @@ MonoBehaviour:
     input_Crouch: Crouch
   headBob:
     bobClass:
-      enableBob: 1
+      enableBob: 0
       unscaledTime: 0
       bobFrequency: 1.5
       bobHeight: 0.3
@@ -227900,7 +227999,7 @@ MonoBehaviour:
       strafeTilt: 3
       bobTarget: {fileID: 592371580}
   sounds:
-    enableAudio: 1
+    enableAudio: 0
     unscaledTime: 0
     audioType: 0
     basedOnHeadBob: 1
@@ -414770,6 +414869,10 @@ PrefabInstance:
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1672746428428466486, guid: da46b229189fb4ac8bab079388699451, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1672746428428466486, guid: da46b229189fb4ac8bab079388699451, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -415009,6 +415112,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3609678624998777572, guid: da46b229189fb4ac8bab079388699451, type: 3}
       insertIndex: -1
       addedObject: {fileID: 939309300}
+    - targetCorrespondingSourceObject: {fileID: 7338665670218602269, guid: da46b229189fb4ac8bab079388699451, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1182229373}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da46b229189fb4ac8bab079388699451, type: 3}
 --- !u!4 &1998200895 stripped

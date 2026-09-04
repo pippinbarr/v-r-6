@@ -17,6 +17,10 @@ public class DeadManRotation : MonoBehaviour
     public bool spun = false;
     public float rotationAmount;
 
+    private Vector3 endPoint;
+    private Quaternion endRotation;
+    private bool endPointToSet = false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -40,15 +44,7 @@ public class DeadManRotation : MonoBehaviour
             return;
         }
 
-
-        cc.Move(Vector3.zero);
-        // gpc.enabled = false;
-        // cc.enabled = false;
-        // gpi.enabled = false;
-
-
-        // VELOCITY?
-        // ONLY ROTATE THE CONCRETE?
+        cc.enabled = false;
 
         player.transform.SetParent(playerParent.transform);
 
@@ -57,12 +53,29 @@ public class DeadManRotation : MonoBehaviour
 
         player.transform.SetParent(null);
 
+        endPointToSet = true;
 
-        // gpc.enabled = true;
-        // cc.enabled = true;
-        // gpi.enabled = true;
+        endPoint = new Vector3(player.transform.position.x, player.transform.position.y, player.transform.position.z);
+        endRotation = player.transform.rotation;
 
+        gpc.enabled = true;
 
         spun = true;
+    }
+
+    void FixedUpdate()
+    {
+        SetEndPoint();
+    }
+
+    void SetEndPoint()
+    {
+        if (endPointToSet)
+        {
+            player.transform.SetPositionAndRotation(endPoint, player.transform.rotation);
+
+            endPointToSet = false;
+            cc.enabled = true;
+        }
     }
 }
