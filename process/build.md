@@ -43,3 +43,33 @@ Anyway I think this basic concept, a pool of men, works. So I'll carry on.
 ...
 
 Later on I did a sweep of the barrels room that I think is alright? I wonder if I'll get in trouble for not perfectly balancing them on each other? As in the light baking bit will be sad at me or something? Will see. Baking now. The room basically looks nice. (Next is Dead Man which feels like it'll be a challenge.)
+
+## 9 September 2026
+
+I've been a bit patchy on my commit timing and writing here such that I'm kind of out of sync with reporting what I'm doing and what I'm thinking, which is unusual for me, but I put it down to the chaos of the semester starting. Here is me trying to at least reset and get to grips with where things stand and where they will head next...
+
+Where are we. Back there I see that I was on barrels, so since then we've got
+
+### Dead Man
+
+I spent ages getting the Dead Man room to work, it was really irritating. I got the code working in a prototyping area kind of smoothly, but then in the real situation (notably with an actual concrete space) it turns out the character controller was having a lot of trouble (I think) colliding with the walls and teleporting around. I did eventually get there, though it felt like I'd already tried the solution that eventually worked so I don't have a *deep* understanding of it tbh. But that said the friction of it did force me to read a bunch about character controllers and how they override the larger world's transformations and so on.
+
+I ran into the realisation that with the area light version that you would see the lighting change when the room rotated because it's baked. I switched to a point light and that seems to be working nicely. At this point you go down the hallway and it's seamless I think in terms of the spin.
+
+It's satisfying. It will even be more satisfying with some kind of ... sound. Maybe a v r 1 reference sound while you're in there? That could be sweet.
+
+### Humanoid Creature
+
+Installed it in the room after Dead Man. Nothing much to say. I once again lost control of the shadow and so on but just needed more intensity on the realtime spotlight and it works. It's nice and glossy. It idles. I decided against any ropes. It *could* be riding the plain end a bit too much, but I think it's probably alright. Some kind of "viewing platform" could be kind of awesome?
+
+### Apocalypse Pack
+
+I've made a closer-to-correct version of this now and it looks pretty cool. Needs colliders but it is largely holding together. Kind of hard to light. Could it use a strobing pointlight somewhere just to give it that apocalyptic look perhaps? Unsure. Bits of it are currently too bright. There will definitely have to be a pretty involved lighting pass on the whole game anyway. 
+
+### Paintings
+
+Went back and properly put paintings on all the walls in a serious grid. It looks... satisfactory. Should I put a huge two versions up as well, leaning against the walls for close study? Perhaps so.
+
+### Generally
+
+Well apart from the gift shop and the desert we have an almost complete sweep of the whole thing holding together. I'll do those last two things first and then return to the little bit and pieces needed. There's the VO element to consider too and hopefully that will push it over the top in terms of it being a little more engaging on the front of thinking about process and the nature of the assets.
