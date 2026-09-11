@@ -73,3 +73,17 @@ Went back and properly put paintings on all the walls in a serious grid. It look
 ### Generally
 
 Well apart from the gift shop and the desert we have an almost complete sweep of the whole thing holding together. I'll do those last two things first and then return to the little bit and pieces needed. There's the VO element to consider too and hopefully that will push it over the top in terms of it being a little more engaging on the front of thinking about process and the nature of the assets.
+
+## 11 September 2026
+
+### Paintings
+
+Added giant paintings to the paintings room because it just felt like there needed to be a version you can study more closely. Even though the resolution is going to be poor?
+
+### Pizzas
+
+Added three more giant pizzas in each corner... there are ways in which I can see it almost as a Rothko room, just with pizzas. I thought for a bit about a kind of leaning set of pizzas telescoping out of the corner, but it did end up feeling all that interesting. Rothko Pizza. Good business idea too.
+
+### To dos
+
+I am going to update the to-dos, it is getting smaller and more pointy.

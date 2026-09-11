@@ -8,24 +8,25 @@
 
 ### Title
 
-- Maybe just keep it simple? v r 6: solo / Maksim Bugrimov
+- Maybe just keep it simple? v r 6: solo / Maksim Bugrimov (maybe even just a sign in the first room and you just show up in there.)
 
 ### Audio
 
 - Room tone? Other sounds? Distant music?
-- Desert tone? v r 1 reference?
+- Desert tone? v r 1 reference? At the very least distinct tone between desert and building
+- Dead Man hall? Specific v r 1 reference?
 
 ### Audio guide
 
 - Answered and I think quite positively. Proceed. ~~Asked, not yet answered.~~ ~~Ask Michael B about approach~~
 
 - Make notes for VO for all rooms (consider the idea of chopped up individual ideas that play over time rather than a single file)
-- Solve the "they walked away" problem
+- Solve the "they walked away" problem, maybe just a cut-off sound so they know that it happened, do not go quietly into that good night
 - Indicate it's good to listen
 
 ### Introductory text?
 
-- Pending audio guide
+- Pending audio guide? Where would it even go? Maybe it would actually help "solve" the "problem" of how dull I find the Spaceship... it could share space with the wall text/title.
 
 ### Building real rooms together
 
@@ -33,18 +34,61 @@
 
 ### Install
 
-- Install spaceship
-- Install pictures
-- Install Stalin
-- Install pizza
-- Base Man
-- Barrels
-- Dead Man
-    - Dead Man trick
-- Humanoid Creature
-- Post Apocalyptic Pack
+- ~~Install spaceship~~
+- ~~Install pictures~~
+- ~~Install Stalin~~
+- ~~Install pizza~~
+- ~~Base Man~~
+- ~~Barrels~~
+- ~~Dead Man~~
+    - ~~Dead Man trick~~
+- ~~Humanoid Creature~~
+- ~~Post Apocalyptic Pack~~
 
-### Gift shop
+- Gift Shop
+
+### Specific installs
+
+#### Spaceship
+
+- Stanchions
+- Show information panel
+
+#### Paintings
+
+- Colliders
+
+#### Stalin
+
+#### Pizza
+
+#### Base Men
+
+- Repour fewer for better lighting (remember to use mesh colliders on stanchions and ropes for better physics, then replace with boxes)
+
+#### Barrels
+
+- Maybe some more barrels, 
+- Consider improving the colliders (capsules on the prefabs)
+
+#### Dead Man
+
+- Sound
+- Lighting?
+- Stanchion?
+- How to deal with the trigger and no-look tries?
+
+#### Humanoid Creature
+
+- Gantry/ladder/viewing platform?
+- Stanchions?
+
+#### Apocalypse Pack
+
+- More stuff (especially throw stuff inside the final building?)
+- Colliders
+
+#### Gift shop
 
 - Yes. ~~Include the museum space in the gift shop?~~
 - Yes. ~~What has to shrink to make the gift shop? The apocalypse I suppose.~~
@@ -59,6 +103,7 @@
 - Build the super structure
 - Install the cargo ship
 - Create the museum-desert transition script/tech
+- Sounds on museum disappear (let them see it)
 - Lighting etc. (realtime?)
 
 ### The Dead Man trick
