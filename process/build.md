@@ -87,3 +87,13 @@ Added three more giant pizzas in each corner... there are ways in which I can se
 ### To dos
 
 I am going to update the to-dos, it is getting smaller and more pointy.
+
+## 14 September 2026
+
+Pokes at it all a bit today and made a couple of nice additions. Well, not that impressive, but I did:
+
+- spotlight the two big paintings in the paintings room and it makes for a much nicer room
+- spotlight stalin but then there was no shadow casting? Why?
+- created the start of a wall text that I think should actually be beside the door as you exit the spaceship room, I'll just move it now
+
+All told it's sort of a limping progress but a progress nonetheless.

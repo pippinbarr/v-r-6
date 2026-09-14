@@ -46,19 +46,25 @@
 - ~~Post Apocalyptic Pack~~
 
 - Gift Shop
+- Desert
 
 ### Specific installs
 
 #### Spaceship
+- ~~Show information panel~~
 
 - Stanchions
-- Show information panel
+- Improve info panel (where should it be? Maybe *after* the spaceship...)
 
 #### Paintings
 
-- Colliders
+- ~~Spotlights~~
+
+- Colliders for the tilty ones
 
 #### Stalin
+
+- Spotlight casting... no shadows?
 
 #### Pizza
 
