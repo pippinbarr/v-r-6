@@ -64,13 +64,13 @@
 
 #### Stalin
 
-- Spotlight casting... no shadows?
+- (Brightness issues) ~~Spotlight casting... no shadows?~~
 
 #### Pizza
 
 #### Base Men
 
-- Repour fewer for better lighting (remember to use mesh colliders on stanchions and ropes for better physics, then replace with boxes)
+- I think I finally solved this with fewer men, floating in the air beautifully ~~Repour fewer for better lighting (remember to use mesh colliders on stanchions and ropes for better physics, then replace with boxes)~~
 
 #### Barrels
 

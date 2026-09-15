@@ -97,3 +97,11 @@ Pokes at it all a bit today and made a couple of nice additions. Well, not that 
 - created the start of a wall text that I think should actually be beside the door as you exit the spaceship room, I'll just move it now
 
 All told it's sort of a limping progress but a progress nonetheless.
+
+## 15 September 2026
+
+Spent quite a bit of time over today working on the base men, feeling incredibly dissatisfied, poking at them, pushing them around with cube shapes as if I was spreading peanut butter, dragging them into new positions to cover the floor, nothing working, sadness mounting.
+
+Then I wondered about returning to that idea of isolating ragdolling base men away from the big group so that they're in those contorted positions "for no reason" and it looks a bit like a static moment in a dance and reminds me (perhaps too obviously??) of Kristallijn.
+
+BUT importantly it actually looks good and kind of beautiful and it's good. It's also just far less extravagant than the other one, less worries about evoking death camps too.
