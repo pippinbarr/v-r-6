@@ -82,7 +82,7 @@
 - Sound
 - Lighting?
 - Stanchion?
-- How to deal with the trigger and no-look tries?
+- How to deal with the trigger and no-look tries? (On Update probably)
 
 #### Humanoid Creature
 

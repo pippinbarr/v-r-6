@@ -20,6 +20,7 @@ public class DeadManRotation : MonoBehaviour
     private Vector3 endPoint;
     private Quaternion endRotation;
     private bool endPointToSet = false;
+    private bool inTrigger = false;
 
     // Start is called before the first frame update
     void Start()
@@ -30,10 +31,23 @@ public class DeadManRotation : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        if (!spun && inTrigger)
+        {
+            CheckForSpin();
+        }
     }
 
     void OnTriggerEnter()
+    {
+        inTrigger = true;
+    }
+
+    void OnTriggerExit()
+    {
+        inTrigger = false;
+    }
+
+    void CheckForSpin()
     {
         Renderer entryRenderer = deadMan.GetComponent<Renderer>();
         Plane[] planes = GeometryUtility.CalculateFrustumPlanes(playerCamera);
