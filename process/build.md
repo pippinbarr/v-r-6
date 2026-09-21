@@ -105,3 +105,13 @@ Spent quite a bit of time over today working on the base men, feeling incredibly
 Then I wondered about returning to that idea of isolating ragdolling base men away from the big group so that they're in those contorted positions "for no reason" and it looks a bit like a static moment in a dance and reminds me (perhaps too obviously??) of Kristallijn.
 
 BUT importantly it actually looks good and kind of beautiful and it's good. It's also just far less extravagant than the other one, less worries about evoking death camps too.
+
+## 21 September 2026
+
+Last week I was able to spend time with various bits of the museum at odd moments like in lulls in my class or stolen moments at home. I feel like I resolved the base man stuff as above which was a nice and good thing. Also have been just fixing certain things like adding stanchions, more materials inside the post apocalyptic area... etc...
+
+Honestly I can feel a boredom with the project right at this moment, but it's likely something that will pass if I work on something else. I'm baking the lighting right now to get a look at it though I think every time of just making a real-time lighting version and maybe not bothering with baking. Also think about how much nicer the base men seemed to look in Unity 6 but that may have been because I didn't perpetually have webgl sorts of settings activated? Unity says this bake will take another 25 minutes, but hopefully that's a lie.
+
+The major major things left are the gift shop and the desert. Need to bite the bullet on one or the other. The desert seems more fun but also has the most potential to be an utter disaster. ALTHOUGH if so then I suppose I will simply not have it. That would be sad but okay.
+
+Also need to make a call on the voice over. Maybe I have it but people can mute me. I dunno man. I'm just a bit tired and in honesty I'm just working on this to work on it today so I can say I worked on it today. Such is life.

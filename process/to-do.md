@@ -52,15 +52,14 @@
 
 #### Spaceship
 - ~~Show information panel~~
+- ~~Stanchions~~
 
-- Stanchions
-- Improve info panel (where should it be? Maybe *after* the spaceship...)
+- Improve info panel
 
 #### Paintings
 
 - ~~Spotlights~~
-
-- Colliders for the tilty ones
+- ~~Colliders for the tilty ones~~
 
 #### Stalin
 
@@ -68,30 +67,34 @@
 
 #### Pizza
 
+- ~~Handle pizza collision~~
+
 #### Base Men
 
 - I think I finally solved this with fewer men, floating in the air beautifully ~~Repour fewer for better lighting (remember to use mesh colliders on stanchions and ropes for better physics, then replace with boxes)~~
 
 #### Barrels
-
-- Maybe some more barrels, 
-- Consider improving the colliders (capsules on the prefabs)
+- ~~Consider improving the colliders (capsules on the prefabs)~~
+- ~~Maybe some more barrels, ~~
 
 #### Dead Man
+- ~~How to deal with the trigger and no-look tries? (On Update probably)~~
+- Invisible cube... ~~Stanchion?~~
 
 - Sound
 - Lighting?
-- Stanchion?
-- How to deal with the trigger and no-look tries? (On Update probably)
 
 #### Humanoid Creature
 
-- Gantry/ladder/viewing platform?
-- Stanchions?
+- Feels too complex ~~Gantry/ladder/viewing platform?~~
+- ~~Stanchions?~~
 
 #### Apocalypse Pack
 
-- More stuff (especially throw stuff inside the final building?)
+- ~~More stuff (especially throw stuff inside the final building?)~~
+
+- Flickerings?
+- Apocalyptic soundings?
 - Colliders
 
 #### Gift shop
