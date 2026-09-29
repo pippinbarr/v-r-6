@@ -237,3 +237,11 @@ Okay so we're in the position of needing these things I think:
 - A title screen/experience. Question of an initial text, but maybe that's just in the first room? Or is there a first first room? Or a screen before the first room where I talk? Or buhhhhhhhh. Or I could get rid of the spaceship conceivably... it is quite boring? Or I could use that room as the start and just offhandedly talk about the spaceship as not so important? 
 
 Is that kind of it? It's certainly not insurmountable. The most "easy" is to just start the install.
+
+## Dis-orientation (29 September 2026)
+
+WELL YOU KNOW WHAT? I've kinda of lost track of this project at this point and no longer really know what I'm fucking doing. It's just a feature of not having consistently worked on it day to day in the last wee while because of the return to teaching and the visit of the parents and the crushing weight of meetings and all that sort of stuff. These are boring but true reasons for why a creative project slows down and stops. And of course there's now inertia in trying to start it up again. FUCK. I've been getting some kinds of work done actually during studio time in my class (I'm there now) but it all feels pretty fucking creaky and not very effective. And so... well, the perpetual dream is just that "things will clear up" and get easier and so on and maybe they will.
+
+SooooOOoooowhat? I just have to keep doing stuff? Make stuff to react to? We're quite close. I'm finding the gift shop kind of stupid and underwhelming even though I think it's a really important piece of the puzzle. And the cargo ship stuff is only *okay* at the moment.
+
+But yeah I mean I write it and I know it's true. I have to add some things and change some things and use that to push my brain to actually engage its gears again and respond. So... I suppose I'll try.
