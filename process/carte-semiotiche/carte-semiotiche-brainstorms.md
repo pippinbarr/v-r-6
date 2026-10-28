@@ -113,9 +113,9 @@ So then the question is how do I write the abstract? Do I simply improve the one
 
 ### Videogame Museum as Technique: Me and Maksim Bugrimov (abstract attempt)
 
-I wanted to celebrate the 3D modeler Maksim Bugrimov, whose assets I've long been a fan of. I wanted to think about what assets are and what they mean on their own. I wanted make my own meanings with assets outside games. I wanted to share with players the sense of magic found in seeing behind the curtain of a videogame world. I wanted to show them Maksim's monsters and apolocalypsis with all the beauty of the shrub asset Chad saw that day in Alan Wake. So I made a videogame musem of videogame assets by Maksim Bugrimov in a videogame.
+I wanted to celebrate the 3D modeler Maksim Bugrimov, whose assets I've long been a fan of. I wanted to think about what assets are and what they mean on their own. I wanted make my own meanings with assets outside games. I wanted to share with players the sense of magic found in seeing behind the curtain of a videogame world. I wanted to show them Maksim's monsters and apolocalypsis with all the beauty of the shrub asset Chad saw that day in Alan Wake. So I made a videogame musem of videogame assets by Maksim Bugrimov in a videogame engine.
 
-Videogames are monoliths, sealed off from their players who mostly have no way of seeing behind or through or inside the world they play in. Even for those of us who make games, who manipulate the assets, who rev the game engines, it is all too easy to see only the world to be instead of the  pieces and materials and stuff we are working with.
+Videogames are monoliths, sealed off from their players who mostly have no way of seeing behind or through or inside the world they play in. Even for those of us who make games, who manipulate the assets, who rev the game engines, it is all too easy to see only the world to be instead of the pieces and materials and stuff we are working with.
 
 The seal is a problem because seeing within is special, privileged, and important. The seal is a problem because technology writ large is dominant and authoritarian and we must think about and encounter its inner nature. We need ways to step through the polished surfaces of software and cellphones to see inside. We need looking glasses to pass through and videogames are looking glasses. They can give us entry not just into their worlds, but into themselves.
 
@@ -126,3 +126,37 @@ When walk inside the walls of the games we play, when we find them strange again
 ...
 
 Well, reader, I sent it in.
+
+## Toward a structure -- 28 October 2026
+
+This thing is coming due. In 33 days. So I need to begin writing it. The abstract is quite fun. Can I "just write the implied paper"? I do not have to write 8000 words, that's a maximum. 
+
+Let me also paste in my Mazmo notes because they were kind of good...?
+
+No I won't.
+
+It's plausible to write this as a gallery tour. It's plausible to write this as the script for how I would include the process documentation in the final game.
+
+Understood that way I'd be writing a kind of process story of the exhibition and using that to make specific observations about the nature of the game, the nature of exhibiting, the nature of a museum in a game.
+
+So let's assume that's the plan... we look at the... 10 assets, one by one, and make observations that touch on:
+
+- Estrangement (most fundamentally)
+- From tools and materials (for a designer)
+- From worlds and coherence (for a player)
+- Communicates a love and attention 
+- Keeps the spices of the abstract (which on a re-read I really enjoy for its rhetorical level)
+
+So let's take it as something like 10 x 500 words on the exhibits plus some framing. And go from there. Up for discussion for any one would be:
+
+- Nature of the assets, things my close attention notices (clipped toenails)
+- What it might tell us about Maksim
+- What it might tell us about me (curator)
+- Nature of the installation, process elements, difficulties, victories
+- Nature of the museum, what can be exhibited, where this leads
+- Relationship to my own history of museums and others (ZIUM)
+- Relationship to other works (HL2 character model for instance)
+
+Where do we get at the end? We get to the beauty and appreciation of videogame materials, a sense of possibility spaces, a sense of a grand endeavour undertaken by so many people, a rehumanizing...?
+
+SO, notes per exhibit is next.
