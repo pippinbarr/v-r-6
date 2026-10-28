@@ -12,3 +12,20 @@ So it looks like the tl;dr why is:
 - Work on a project that affords me some play in terms of staging and strangeness of space and architecture (ala *v r 1*) in relation to the above
 
 
+## Why 2 (28 October 2026)
+
+*v r 6* is a continuation of the previous *v r* games in that it is most fundamentally about the technical materials of videogame creation as reflected in the Unity game engine.
+
+*v r 6* is distinguished by a focus on the existence of *asset creators*, revealed by collecting together the work of one creator (Maksim Bugrimov) to emphasize the person behind the work.
+
+*v r 6* continues to leverage the exhibition format to further distance (estrange) the player/audience from interpreting the assets on display as being "from the world", demanding they be seen as being individuated artworks.
+
+*v r 6* gives me a chance to be more playful with the curation/installation process because it's not bound by a strict format (e.g. Marfa) or too enormous/blank environment (e.g. the desert of *v r $4.99*, the island of *v r 5*). (And also just because I gave myself permission to do this as a part of the project that would keep it alive in my mind.)
+
+*v r 6* represents a chance to incorporate process documentation as part of the experience itself via voiceover (which I got to try out for the ZIUM Railway pop-up).
+
+...
+
+The fundamental why for the eventual released thing is that it will provide a place to think about the idea of an asset creator as a real person with taste, technique, mystery, etc.
+
+The fundamental why for the process of making the thing is to grapple with curation and staging in a more elaborate and fun way than I normally allow myself (as well as of course to communicate the audience-facing why).
